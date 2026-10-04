@@ -8,6 +8,10 @@ describe('match event rules (real fixtures)', () => {
     const og = m.goals.filter((g) => g.ownGoal);
     expect(og).toEqual([expect.objectContaining({ side: 'A', carne: '26947', ownGoal: true })]);
     expect(m.goals.filter((g) => g.carne === '26947' && !g.ownGoal)).toHaveLength(1); // also scored for his team
+    // 8–8: the published values (2,3,1,1,1 and 1,1,2,1,3) are goal counts that add up to each score
+    expect(m.unattributed).toEqual({ H: 0, A: 0 });
+    expect(m.goals.filter((g) => g.side === 'H')).toHaveLength(8);
+    expect(m.goals.every((g) => g.minute === null)).toBe(true);
     expect(m.venue).toBeNull(); // CANCHA A FIJAR
   });
 
@@ -32,21 +36,22 @@ describe('match event rules (real fixtures)', () => {
     expect(m.kickoffLocal).toBe('2025-05-16 20:45:00');
     expect(m.detailsStart).toBe('2025-05-16 22:00:00');
     expect(m.doubtfulDate).toBe(false);
-    expect(m.goals.every((g) => g.minute === 1)).toBe(true); // placeholder minutes kept verbatim
+    expect(m.goals.every((g) => g.minute === null)).toBe(true); // one goal per row, read as counts
     expect(m.appearances.find((a) => a.captain && a.side === 'H')).toMatchObject({ shirt: 1 });
     expect(m.officials).toEqual([]); // jueces HTTP 500 → none
   });
 });
 
+const goal = (carne: string, minutos = '1') => ({ carne, Nombre: `JUGADOR ${carne}`, minutos, EnContra: '0' });
+
 function synthetic(over: Partial<MatchSource> = {}): MatchSource {
   const lineup = (prefix: string, n: number) =>
     Array.from({ length: n }, (_, i) => ({ carne: `${prefix}${i}`, Nombre: `JUGADOR ${prefix}${i}`, camiseta: `${i}`, Capitan: '' }));
-  const goal = (carne: string) => ({ carne, Nombre: `JUGADOR ${carne}`, minutos: '1', EnContra: '0' });
   return {
     listing: { Fecha: '1', Fecha_Hora: '2015-06-21 20:00:00', Cancha: 'G. UGAB', Locatario: 'A', GL: '12', Visitante: 'B', GV: '4', ID: '1' },
     detail: null,
     lineups: { H: lineup('h', 8), A: lineup('a', 8) },
-    goals: { H: ['h1', 'h1', 'h2', 'h3', 'h4'].map(goal), A: ['a1', 'a2', 'a3', 'a3'].map(goal) },
+    goals: { H: ['h1', 'h1', 'h2', 'h3', 'h4'].map((c) => goal(c)), A: ['a1', 'a2', 'a3', 'a3'].map((c) => goal(c)) },
     yellows: { H: [], A: [] },
     reds: { H: [], A: [] },
     substitutions: { H: [], A: [] },
@@ -72,6 +77,33 @@ describe('match event rules (synthetic)', () => {
     expect(m.unattributed).toEqual({ H: 0, A: 0 });
     expect(m.goals.filter((g) => g.side === 'H')).toHaveLength(5);
     expect(m.homeGoals).toBe(4);
+  });
+
+  it('reads values that add up to the score as goal counts (6+4+2+2+2 of a 0–16)', () => {
+    const base = synthetic();
+    const m = normalizeMatch({
+      ...base,
+      listing: { ...base.listing, GL: '0', GV: '16' },
+      goals: { H: [goal('h1', '0')], A: [goal('a1', '2'), goal('a2', '2'), goal('a3', '2'), goal('a4', '4'), goal('a5', '6')] },
+    });
+    expect(m.unattributed).toEqual({ H: 0, A: 0 });
+    expect(m.inconsistent).toBe(false);
+    expect(m.goals.filter((g) => g.side === 'H')).toEqual([]); // a row with 0 adds no goal
+    expect(m.goals.filter((g) => g.carne === 'a5')).toHaveLength(6);
+    expect(m.goals.map((g) => g.seq)).toEqual([...Array(16).keys()]);
+    expect(m.goals.every((g) => g.minute === null)).toBe(true);
+  });
+
+  it('keeps one goal per row at the published minute when the values do not add up to the score', () => {
+    const base = synthetic();
+    const m = normalizeMatch({ ...base, listing: { ...base.listing, GL: '12', GV: '2' }, goals: { H: [goal('h1', '7'), goal('h2', '0'), goal('h3', '1')], A: [goal('a1', '3')] } });
+    expect(m.goals.map((g) => [g.carne, g.minute])).toEqual([
+      ['h1', 7],
+      ['h2', null], // 0 and 1 are filler, not minutes
+      ['h3', null],
+      ['a1', 3],
+    ]);
+    expect(m.unattributed).toEqual({ H: 9, A: 1 });
   });
 
   it('marks a match without score as programado', () => {

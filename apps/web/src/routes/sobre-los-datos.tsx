@@ -27,13 +27,16 @@ function AboutPage() {
 
       <H>Goles sin autor registrado</H>
       <p>
-        El resultado oficial de cada partido manda. En muchos partidos, sobre todo antes de 2020, la fuente no registra a todos los goleadores. Cuando el marcador tiene más goles que los registrados,
-        los que faltan se muestran como <em>«Gol sin autor registrado»</em>. Esos goles cuentan para el resultado, las tablas y los totales de los equipos, pero no para ningún jugador. Los rankings de goles
+        El resultado oficial de cada partido manda. En unos pocos partidos la fuente no registra a todos los goleadores. Cuando el marcador tiene más goles que los registrados, los que
+        faltan se muestran como <em>«Gol sin autor registrado»</em>. Esos goles cuentan para el resultado, las tablas y los totales de los equipos, pero no para ningún jugador. Los rankings de goles
         indican qué porcentaje de los goles del filtro elegido tiene autor registrado.
       </p>
 
-      <H>Minutos</H>
-      <p>Los minutos de los goles se muestran tal como los publica la fuente. Muchos aparecen en el minuto 1 o 0: es un valor de relleno de la fuente, no un dato real.</p>
+      <H>Cantidad de goles por jugador</H>
+      <p>
+        La fuente publica una línea por goleador con un número en la columna de minutos. En la práctica ese número es la cantidad de goles del jugador en el partido, no el minuto: cuando los números de un
+        equipo suman exactamente su marcador, se toman como cantidad de goles (por ejemplo, «6» son seis goles). Por eso los partidos muestran cuántos goles hizo cada jugador (×6) y no en qué minuto.
+      </p>
 
       <H>Tarjetas</H>
       <p>

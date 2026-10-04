@@ -180,12 +180,16 @@ The published final score SHALL be authoritative for match results, points, stan
 - **THEN** the match is flagged as inconsistent and all 5 events are kept
 - **AND** the home team's goals-for total for that match is 4
 
-### Requirement: Verbatim event minutes
-Goal and substitution minutes SHALL be stored exactly as published, including the placeholder values 0 and 1. No minute SHALL be inferred, corrected or discarded.
+### Requirement: Goal counts in the minute field
+The source publishes one goal row per scorer whose `minutos` value is, in practice, that scorer's number of goals. For each side of a played match, when every value is a non-negative integer and the values add up exactly to the side's published score, each row SHALL be expanded into that many goals with unknown minute (a row with 0 adds no goal). Otherwise each row SHALL be one goal, stored with its published minute unless the value is 0 or 1 (source filler), which is stored as unknown. Substitution minutes SHALL be stored as published.
 
-#### Scenario: Placeholder minute is kept
-- **WHEN** the source publishes a goal at minute "1"
-- **THEN** the goal is stored with minute 1
+#### Scenario: Values that add up to the score are goal counts
+- **WHEN** a side won 16–0 and its rows carry 6, 4, 2, 2 and 2
+- **THEN** the side has 16 attributed goals (six for the first scorer) with unknown minutes and no unattributed goals
+
+#### Scenario: Values that do not add up keep one goal per row
+- **WHEN** a side scored 7 and its five rows all carry 1
+- **THEN** the side has 5 attributed goals with unknown minutes and 2 unattributed goals
 
 ### Requirement: Own goals
 A recorded goal whose scorer appears in the lineup of the team opposite to the side the goal is credited to SHALL be treated as an own goal. An own goal counts for the credited side's score. It SHALL NOT count as a goal in the scorer's statistics, and it SHALL count in the scorer's own-goal tally. The source's `EnContra` field SHALL NOT be the sole basis of this decision.

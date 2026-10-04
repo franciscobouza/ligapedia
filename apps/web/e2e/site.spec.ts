@@ -71,9 +71,13 @@ test.describe('9.x pages', () => {
     await expect(page.getByText('Tabla calculada después de la fecha 2')).toBeVisible();
   });
 
-  test('9.4 match page shows unattributed goals, own goals, walk-overs and referees notice', async ({ page }) => {
+  test('9.4 match page shows goal tallies, unattributed goals, own goals, walk-overs and referees notice', async ({ page }) => {
+    await page.goto('/partidos/19908');
+    await expect(page.getByText('Gol sin autor registrado')).toHaveCount(2);
+    await expect(page.getByText('×9')).toBeVisible();
     await page.goto('/partidos/19906');
-    await expect(page.getByText('Gol sin autor registrado')).toHaveCount(6);
+    await expect(page.getByText('×3')).toHaveCount(2); // 8–8 published as per-scorer goal counts
+    await expect(page.getByText('Gol sin autor registrado')).toHaveCount(0);
     await expect(page.getByText('(e.c.)')).toBeVisible();
     await expect(page.getByText('Sin datos de árbitros')).toBeVisible();
     await expect(page.getByRole('link', { name: 'Historial completo' })).toBeVisible();
