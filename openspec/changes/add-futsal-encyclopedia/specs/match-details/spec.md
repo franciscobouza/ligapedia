@@ -27,11 +27,11 @@ The match page SHALL show both teams' lineups with each player's shirt number an
 - **THEN** that player is shown with a "C" badge next to their name
 
 ### Requirement: Goals with unattributed remainder
-The match page SHALL list each side's recorded goals with the scorer and the minute exactly as published; minute 1 is shown as "1'". Own goals SHALL be marked "(e.c.)" and listed under the side they were credited to. When a side's score exceeds its recorded goals, the page SHALL add one "Gol sin autor registrado" entry per missing goal, so that every side's goal list matches its score. A match flagged as inconsistent SHALL show a notice explaining that the recorded goals do not match the published score.
+The match page SHALL list each side's recorded goals: goals with unknown minute are grouped per scorer with their count (e.g. "×6"), top scorers first, and goals with a known minute are listed one per line with that minute. Own goals SHALL be marked "(e.c.)" and listed under the side they were credited to. When a side's score exceeds its recorded goals, the page SHALL add a "Gol sin autor registrado" entry with the number of missing goals, so that every side's goal list adds up to its score. A match flagged as inconsistent SHALL show a notice explaining that the recorded goals do not match the published score.
 
 #### Scenario: Missing scorers displayed
 - **WHEN** a match ended 12–4 and only 5 home goals have a recorded scorer
-- **THEN** the home goal list shows the 5 named goals followed by 7 entries reading "Gol sin autor registrado"
+- **THEN** the home goal list shows the 5 named goals followed by "Gol sin autor registrado ×7"
 
 #### Scenario: Own goal displayed
 - **WHEN** a goal is an own goal by a home player credited to the visitors

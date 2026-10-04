@@ -125,7 +125,10 @@ describe('ingest commands and the daily refresh', () => {
     clock = new Date('2025-07-22T15:00:00Z');
     const r = await dailyCommand(ctx, { force: true });
     expect(r.status).toBe('succeeded');
-    expect((await match(19906)).hu).toBe(before.hu + 1);
+    // 8 home goals published as counts 1,1,2,1,3; without the first row they no longer add up to the score,
+    // so the 4 remaining rows count as one goal each
+    expect(before.hu).toBe(0);
+    expect((await match(19906)).hu).toBe(4);
   });
 
   it('6.3 ingests a newly listed season without configuration changes', async () => {

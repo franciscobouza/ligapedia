@@ -18,27 +18,64 @@ export const Route = createFileRoute('/partidos/$id')({
   component: MatchPage,
 });
 
+interface GoalLine {
+  player: MatchDetail['goals'][number]['player'];
+  minute: number | null;
+  ownGoal: boolean;
+  count: number;
+}
+
+/** Goals without a minute are tallied per scorer ("Nombre ×3"), top scorers first; goals with a minute stay one per line, in order. */
+function goalLines(goals: MatchDetail['goals']): GoalLine[] {
+  const lines: GoalLine[] = [];
+  const tallies = new Map<string, GoalLine>();
+  for (const g of goals) {
+    const key = g.minute === null ? `${g.player?.id ?? '-'}:${g.ownGoal}` : null;
+    const line = key ? tallies.get(key) : undefined;
+    if (line) line.count++;
+    else {
+      const created = { player: g.player, minute: g.minute, ownGoal: g.ownGoal, count: 1 };
+      lines.push(created);
+      if (key) tallies.set(key, created);
+    }
+  }
+  return lines.some((l) => l.minute !== null) ? lines : lines.sort((a, b) => b.count - a.count);
+}
+
+function Tally({ count }: { count: number }) {
+  if (count < 2) return null;
+  return (
+    <span className="text-muted-foreground tabular-nums" aria-label={`${count} goles`}>
+      ×{count}
+    </span>
+  );
+}
+
 function GoalList({ d, side }: { d: MatchDetail; side: 'H' | 'A' }) {
   const goals = d.goals.filter((g) => g.side === side);
   const missing = side === 'H' ? d.unattributed.home : d.unattributed.away;
   if (d.match.walkOver) return null;
   if (!goals.length && !missing) return <p className="text-muted-foreground text-sm">Sin goles</p>;
+  const lines = goalLines(goals);
+  const withMinutes = lines.some((l) => l.minute !== null);
   return (
     <ul className="space-y-1 text-sm">
-      {goals.map((g, i) => (
+      {lines.map((g, i) => (
         <li key={i} className="flex gap-2">
-          <span className="text-muted-foreground w-8 shrink-0 text-right tabular-nums">{g.minute !== null ? `${g.minute}'` : ''}</span>
+          {withMinutes && <span className="text-muted-foreground w-8 shrink-0 text-right tabular-nums">{g.minute !== null ? `${g.minute}'` : ''}</span>}
           <span>
-            {g.player ? <PlayerLink player={g.player} /> : 'Jugador sin nombre'} {g.ownGoal && <span className="text-muted-foreground">{es.match.ownGoal}</span>}
+            {g.player ? <PlayerLink player={g.player} /> : 'Jugador sin nombre'} {g.ownGoal && <span className="text-muted-foreground">{es.match.ownGoal}</span>} <Tally count={g.count} />
           </span>
         </li>
       ))}
-      {Array.from({ length: missing }, (_, i) => (
-        <li key={`u${i}`} className="text-muted-foreground flex gap-2 italic">
-          <span className="w-8 shrink-0" />
-          <span>{es.match.unattributed}</span>
+      {missing > 0 && (
+        <li className="text-muted-foreground flex gap-2 italic">
+          {withMinutes && <span className="w-8 shrink-0" />}
+          <span>
+            {es.match.unattributed} <Tally count={missing} />
+          </span>
         </li>
-      ))}
+      )}
     </ul>
   );
 }

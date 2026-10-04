@@ -43,6 +43,7 @@ export interface NormalizedGoal {
   /** Side the goal is credited to. */
   side: Side;
   carne: string;
+  /** Null when the source value was a goal count rather than a minute. */
   minute: number | null;
   ownGoal: boolean;
   seq: number;
@@ -141,15 +142,26 @@ export function normalizeMatch(src: MatchSource): NormalizedMatch {
     });
   }
 
-  // Goals: credited side = the list they appear in; own goal when the scorer is in the other lineup only.
+  // Goals. The source's `minutos` field is, in practice, the number of goals the row stands for (one row per
+  // scorer), not a minute. When a side's values add up exactly to its score, each row is expanded into that many
+  // goals with unknown minute (a row with 0 adds none); otherwise each row is one goal at the published minute,
+  // except 0 and 1, which the source uses as filler and are stored as unknown.
+  // Credited side = the list they appear in; own goal when the scorer is in the other lineup only.
   const goals: NormalizedGoal[] = [];
+  const recorded = { H: 0, A: 0 };
   for (const side of ['H', 'A'] as const) {
-    src.goals[side].forEach((row, i) => {
+    const rows = src.goals[side];
+    const values = rows.map((row) => toInt(row.minutos));
+    const score = side === 'H' ? homeGoals : awayGoals;
+    const asCounts = played && rows.length > 0 && values.every((v) => v !== null && v >= 0) && values.reduce<number>((a, v) => a + v!, 0) === score;
+    rows.forEach((row, i) => {
       const ownGoal = lineupCarnes[other(side)].has(row.carne) && !lineupCarnes[side].has(row.carne);
-      goals.push({ side, carne: row.carne, minute: toInt(row.minutos), ownGoal, seq: i });
+      const value = values[i] ?? null;
+      const n = asCounts ? value! : 1;
+      const minute = !asCounts && value !== null && value > 1 ? value : null;
+      for (let k = 0; k < n; k++) goals.push({ side, carne: row.carne, minute, ownGoal, seq: recorded[side]++ });
     });
   }
-  const recorded = { H: src.goals.H.length, A: src.goals.A.length };
   const unattributed = {
     H: played ? Math.max(0, homeGoals - recorded.H) : 0,
     A: played ? Math.max(0, awayGoals - recorded.A) : 0,

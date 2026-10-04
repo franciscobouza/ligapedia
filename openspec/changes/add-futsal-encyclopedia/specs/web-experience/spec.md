@@ -90,7 +90,7 @@ Every page SHALL show:
 - an attribution to the Liga Universitaria de Deportes as the data source, with a link to its site;
 - a statement that Ligapedia is an unofficial site.
 
-A permanent "Sobre los datos" page SHALL explain the known source gaps: missing scorers, placeholder minutes, sparse yellow cards, walk-overs, and how champions are determined.
+A permanent "Sobre los datos" page SHALL explain the known source gaps: missing scorers, goal counts published in the minute field, sparse yellow cards, walk-overs, and how champions are determined.
 
 #### Scenario: Freshness indicator
 - **WHEN** the last successful refresh finished at 03:12 on 2 October 2026

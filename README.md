@@ -136,4 +136,4 @@ Restore onto an empty database: `deploy/restore.sh /var/backups/ligapedia/ligape
 
 ## Data notes
 
-See the site's "Sobre los datos" page: final scores are authoritative and missing scorers appear as "Gol sin autor registrado"; minutes are verbatim; yellow cards are rarely recorded by the source; walk-overs count for results but not for player stats or match records.
+See the site's "Sobre los datos" page: final scores are authoritative and missing scorers appear as "Gol sin autor registrado"; the source's goal "minute" is a per-scorer goal count (read as such whenever a side's values add up to its score); yellow cards are rarely recorded by the source; walk-overs count for results but not for player stats or match records.
