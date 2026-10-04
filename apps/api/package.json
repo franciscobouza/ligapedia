@@ -1,0 +1,32 @@
+{
+  "name": "@ligapedia/api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc -p tsconfig.json",
+    "dev": "tsx watch src/server.ts",
+    "load-test": "tsx scripts/load-test.ts"
+  },
+  "devDependencies": {
+    "@types/autocannon": "^7.12.7",
+    "autocannon": "^8.0.0",
+    "tsup": "^8.5.1",
+    "tsx": "^4.23.15"
+  },
+  "dependencies": {
+    "@fastify/rate-limit": "^11.2.0",
+    "@fastify/type-provider-typebox": "^6.1.0",
+    "@ligapedia/contracts": "workspace:*",
+    "@ligapedia/db": "workspace:*",
+    "@ligapedia/domain": "workspace:*",
+    "drizzle-orm": "^0.45.3",
+    "fastify": "^5.12.5",
+    "lru-cache": "^11.5.3",
+    "pino": "^10.4.0",
+    "postgres": "^3.4.9",
+    "typebox": "^1.3.34",
+    "yaml": "^2.9.1"
+  }
+}

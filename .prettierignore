@@ -1,0 +1,10 @@
+node_modules
+dist
+pnpm-lock.yaml
+openspec
+.claude
+.agents
+packages/db/drizzle
+packages/domain/test/fixtures
+apps/web/src/routeTree.gen.ts
+apps/web/src/components/ui

@@ -1,0 +1,7 @@
+# Display-name corrections (the source publishes names in capitals without accents).
+teams: {}
+#   NAUTICO CARRASCO Y PUNTA GORDA: Náutico Carrasco y Punta Gorda
+players: {}
+#   "12345": Juan Pérez        # keyed by membership card number (never shown)
+acronyms: []
+#   - UTEC                     # extra team-name tokens kept in capitals

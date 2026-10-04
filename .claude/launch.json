@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "api",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd apps/api && DATABASE_URL_API=${DATABASE_URL_API:-postgres://ligapedia_api:api@127.0.0.1:54329/ligapedia} PORT=3000 npx tsx watch src/server.ts"],
+      "port": 3000
+    },
+    {
+      "name": "web",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": ["-c", "cd apps/web && npx vite --port 5173 --strictPort"],
+      "port": 5173
+    }
+  ]
+}

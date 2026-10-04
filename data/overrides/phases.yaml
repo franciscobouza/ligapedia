@@ -1,0 +1,43 @@
+# Phase (series) overrides: assign a tournament kind, role and/or tournament name to a source series.
+# Matched by season code (year − 1913), series name and optional torneo label (case/accent-insensitive).
+#   kind: apertura | clausura | liga | oro | plata | anual | otro
+#   role: league | knockout | final | third_place
+#   tournament: display name; phases with the same kind + tournament form one tournament
+
+# 2020: the Clausura was played as a play-off ("Lourdes se quedó con el Clausura de futsal",
+# ligauniversitaria.org.uy, 13/11/2020), so its play-off phases belong to the Clausura.
+- season: 107
+  serie: Clausura-Playoff-Cuartos
+  kind: clausura
+- season: 107
+  serie: SEMIFINALES TITÚLO
+  kind: clausura
+- season: 107
+  serie: CLAUSURA FINAL ORO
+  kind: clausura
+
+# 2023: "Futbol Sala Serie 1/2" are the Apertura groups (played between the Apertura league
+# phase and the FINAL APERTURA).
+- season: 110
+  serie: Futbol Sala Serie 1
+  kind: apertura
+- season: 110
+  serie: Futbol Sala Serie 2
+  kind: apertura
+
+# 2019: after the Copas de Oro/Plata (finals on 02/10/2019) a separate year-end competition was played
+# in Nov–Dec (two groups, semifinals, final on 10/12/2019). Without this, its final would be taken as the
+# Copa de Oro final.
+- season: 106
+  serie: SERIE 1
+  kind: anual
+- season: 106
+  serie: SERIE 2
+  kind: anual
+- season: 106
+  torneo: FUTSAL
+  serie: SEMIFINALES
+  kind: anual
+- season: 106
+  serie: FINAL FUTSAL
+  kind: anual
