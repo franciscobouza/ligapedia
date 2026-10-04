@@ -43,7 +43,8 @@ async function main(argv: string[]): Promise<number> {
     },
   });
   const [command, arg] = positionals;
-  const databaseUrl = env('DATABASE_URL_INGEST');
+  // A single DATABASE_URL (e.g. a Coolify-managed PostgreSQL) works for both API and ingest.
+  const databaseUrl = env('DATABASE_URL_INGEST', process.env.DATABASE_URL);
   const sql = createSql(databaseUrl, { max: 8, appName: 'ligapedia-ingest' });
   const domain = process.env.LIGAPEDIA_DOMAIN;
   const ctx: IngestContext = {

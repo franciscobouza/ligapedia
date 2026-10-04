@@ -1,0 +1,45 @@
+# Coolify (Docker Compose build pack): app + database in one resource, nothing to configure.
+# Coolify generates SERVICE_USER_POSTGRES / SERVICE_PASSWORD_POSTGRES and keeps them across deploys;
+# SERVICE_URL_APP_3000 tells its proxy to route the domain you assign to port 3000 (HTTPS handled by Coolify).
+services:
+  app:
+    build:
+      context: .
+      dockerfile: deploy/Dockerfile.single
+    restart: unless-stopped
+    environment:
+      - SERVICE_URL_APP_3000
+      - DATABASE_URL=postgres://${SERVICE_USER_POSTGRES}:${SERVICE_PASSWORD_POSTGRES}@db:5432/ligapedia
+      - LIGAPEDIA_CONTACT=${LIGAPEDIA_CONTACT:-}
+      - LIGAPEDIA_DOMAIN=${LIGAPEDIA_DOMAIN:-}
+      - INGEST_CONCURRENCY=${INGEST_CONCURRENCY:-4}
+      - AUTO_BACKFILL=${AUTO_BACKFILL:-true}
+      - TZ=America/Montevideo
+    depends_on:
+      db:
+        condition: service_healthy
+    healthcheck:
+      test: ['CMD-SHELL', 'wget -qO- http://127.0.0.1:3000/api/health >/dev/null || exit 1']
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 60s
+
+  db:
+    image: postgres:18
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=${SERVICE_USER_POSTGRES}
+      - POSTGRES_PASSWORD=${SERVICE_PASSWORD_POSTGRES}
+      - POSTGRES_DB=ligapedia
+    command: ['postgres', '-c', 'shared_buffers=256MB', '-c', 'max_connections=60']
+    volumes:
+      - ligapedia-pgdata:/var/lib/postgresql
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U $${POSTGRES_USER} -d ligapedia']
+      interval: 5s
+      timeout: 3s
+      retries: 30
+
+volumes:
+  ligapedia-pgdata:

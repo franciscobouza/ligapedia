@@ -1,7 +1,11 @@
+import { existsSync } from 'node:fs';
+import { join } from 'node:path';
+import compress from '@fastify/compress';
 import rateLimit from '@fastify/rate-limit';
+import fastifyStatic from '@fastify/static';
 import type { TypeBoxTypeProvider } from '@fastify/type-provider-typebox';
 import type { Sql } from '@ligapedia/db';
-import Fastify, { type FastifyInstance } from 'fastify';
+import Fastify, { LogController, type FastifyInstance } from 'fastify';
 import { registerResponseCache } from './cache';
 import type { ApiContext } from './context';
 import { DatasetState } from './dataset';
@@ -21,13 +25,24 @@ export interface AppOptions {
   logger?: boolean | object;
   rateLimitPerMinute?: number;
   pollMs?: number;
+  /** Built SPA (apps/web/dist) to serve on the same port; omit to serve the API only. */
+  webDir?: string;
 }
+
+/** Security headers for HTML/static responses (Caddy sets them in the Compose deployment). */
+const SECURITY_HEADERS: Record<string, string> = {
+  'x-content-type-options': 'nosniff',
+  'referrer-policy': 'strict-origin-when-cross-origin',
+  'permissions-policy': 'camera=(), microphone=(), geolocation=()',
+  'content-security-policy':
+    "default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'",
+};
 
 export async function buildApp(options: AppOptions): Promise<{ app: FastifyInstance; ctx: ApiContext }> {
   const app = Fastify({
     logger: options.logger ?? false,
     trustProxy: true,
-    disableRequestLogging: true,
+    logController: new LogController({ disableRequestLogging: true }),
     routerOptions: { ignoreTrailingSlash: true },
   }).withTypeProvider<TypeBoxTypeProvider>();
 
@@ -55,8 +70,28 @@ export async function buildApp(options: AppOptions): Promise<{ app: FastifyInsta
     return payload;
   });
 
-  await app.register(rateLimit, { max: options.rateLimitPerMinute ?? 600, timeWindow: '1 minute' });
+  await app.register(rateLimit, {
+    max: options.rateLimitPerMinute ?? 600,
+    timeWindow: '1 minute',
+    allowList: (req) => !req.url.startsWith('/api/'), // static files are not rate limited
+  });
   registerResponseCache(app, dataset);
+  // Registered after the response cache so the cache stores uncompressed bodies.
+  await app.register(compress, { global: true, encodings: ['br', 'gzip'], brotliOptions: { params: { 1: 4 } }, threshold: 1024 });
+
+  const webDir = options.webDir && existsSync(join(options.webDir, 'index.html')) ? options.webDir : undefined;
+  if (webDir) {
+    await app.register(fastifyStatic, {
+      root: webDir,
+      wildcard: false,
+      index: false,
+      // Hashed assets are immutable; everything else (index.html, boot.js, favicon) must revalidate.
+      setHeaders: (res, filePath) => {
+        res.header('cache-control', filePath.includes('/assets/') ? 'public, max-age=31536000, immutable' : 'no-cache');
+        for (const [k, v] of Object.entries(SECURITY_HEADERS)) res.header(k, v);
+      },
+    });
+  }
 
   app.setErrorHandler((err, req, reply) => {
     if (err instanceof NotFoundError) return reply.code(404).send({ error: 'not_found', message: err.message });
@@ -65,7 +100,14 @@ export async function buildApp(options: AppOptions): Promise<{ app: FastifyInsta
     const message = err instanceof Error ? err.message : String(err);
     return reply.code(status).send({ error: status === 429 ? 'rate_limited' : 'error', message: status >= 500 ? 'Error interno' : message });
   });
-  app.setNotFoundHandler((_req, reply) => reply.code(404).send({ error: 'not_found', message: 'Recurso no encontrado' }));
+  app.setNotFoundHandler((req, reply) => {
+    // SPA fallback: every non-API GET path renders the app, which shows its own 404 page.
+    if (webDir && (req.method === 'GET' || req.method === 'HEAD') && !req.url.startsWith('/api/')) {
+      for (const [k, v] of Object.entries(SECURITY_HEADERS)) reply.header(k, v);
+      return reply.header('cache-control', 'no-cache').type('text/html; charset=utf-8').sendFile('index.html');
+    }
+    return reply.code(404).send({ error: 'not_found', message: 'Recurso no encontrado' });
+  });
 
   await metaRoutes(app, ctx);
   await homeRoutes(app, ctx);

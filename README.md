@@ -9,7 +9,7 @@ Planning artifacts (proposal, specs, design, tasks) live in [`openspec/changes/a
 | Part | What it does |
 |---|---|
 | `apps/ingest` | CLI: crawls the league's JSON endpoints into a raw archive, normalizes it, builds statistics, publishes atomically |
-| `apps/api` | Fastify read-only JSON API (`/api/v1/*`), cached per dataset version |
+| `apps/api` | Fastify read-only JSON API (`/api/v1/*`), cached per dataset version; in single-service mode also serves the website and schedules the daily refresh |
 | `apps/web` | Vite + React SPA (TanStack Router/Query, shadcn/ui, Tailwind CSS) |
 | `packages/domain` | Pure normalization rules (names, phases, champions, match events) + golden fixtures |
 | `packages/db` | Drizzle migrations for persistent schemas, DDL for `core`/`stats`, statistics SQL |
@@ -63,6 +63,39 @@ All commands share one advisory lock (never two at once) and are recorded in `op
 | `daily [--force] [--scheduled]` | The 03:00 refresh; at most one successful run per Montevideo calendar day unless `--force` |
 | `rebuild` | Re-normalize and rebuild statistics from the archive (no network), then publish |
 | `rollback` | Swap the live dataset with the previous one |
+
+## Deploying on Coolify
+
+Both options run the same single-service app: one Node process serves the website and the API on port 3000, runs migrations on boot, starts the historical backfill automatically when the database is empty (about 4 hours, resumable — restarts continue where it stopped), and triggers the daily refresh at 03:00 America/Montevideo by itself. No cron or Coolify scheduled task is needed. Coolify's proxy handles your domain and HTTPS; the app speaks plain HTTP on port 3000.
+
+### Option A (recommended): Docker Compose — app and database in one resource
+
+1. *New resource → Public/Private repository* → this repo, **Build Pack: Docker Compose**, Docker Compose Location **`/docker-compose.coolify.yml`**.
+2. Deploy. Coolify generates the database user and password (`SERVICE_USER_POSTGRES`, `SERVICE_PASSWORD_POSTGRES`) and keeps them across deploys; there are no required variables. Optionally set `LIGAPEDIA_CONTACT` (shown in the crawler's User-Agent).
+3. Assign your domain to the **app** service. Done: the site is up immediately and fills in when the first backfill publishes; follow it in the app's logs (`[ingest backfill] …`).
+
+### Option B: Railpack — app only, with a separate PostgreSQL resource
+
+`railpack.json` pins Node 24, builds with `pnpm run build:deploy` and starts with `pnpm start`.
+
+1. **Database:** in the same Coolify project, create a **PostgreSQL** resource (16 or newer; 18 recommended). Copy its *internal* connection URL.
+2. **Application:** *New resource → Public/Private repository* → this repo, branch of your choice, **Build Pack: Railpack**, Base Directory `/`, **Ports Exposes: `3000`**. Leave install/build/start commands empty (they come from `package.json`/`railpack.json`).
+3. **Environment variables** (Application → Environment Variables):
+
+   | Variable | Required | Value |
+   |---|---|---|
+   | `DATABASE_URL` | yes | the PostgreSQL internal URL from step 1 |
+   | `LIGAPEDIA_CONTACT` | recommended | contact shown in the crawler's User-Agent |
+   | `LIGAPEDIA_DOMAIN` | optional | your public domain (used only in the User-Agent) |
+   | `INGEST_CONCURRENCY` | optional | parallel requests to the league's site (default 4) |
+   | `INGEST_SCHEDULER` | optional | `off` disables the built-in 03:00 refresh |
+   | `AUTO_BACKFILL` | optional | `false` disables the automatic first backfill |
+
+4. **Health check:** path `/api/health`, port `3000`.
+5. **Deploy.** The first boot migrates the database and starts the backfill in the background (about 4 hours; resumable — a redeploy or restart continues where it stopped). The site is up immediately and fills in when the backfill publishes. Progress appears in the application logs as `[ingest backfill] …` lines.
+6. **Domain:** add your domain in Coolify; its proxy handles HTTPS. The app itself speaks plain HTTP on port 3000.
+
+With either option, operator commands run in the app container's terminal (Coolify → Terminal), e.g. `node apps/ingest/dist/cli.js daily --force`, `… season 2025`, `… rebuild`, `… rollback`. Curation (`data/overrides/*.yaml`) is applied by committing, redeploying and running `node apps/ingest/dist/cli.js rebuild`. For backups, enable Coolify's scheduled backups on the PostgreSQL resource (the `registry`, `raw` and `ops` schemas are the irreplaceable part).
 
 ## Production runbook (VPS with Docker Compose)
 

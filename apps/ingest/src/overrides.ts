@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseOverrides, type Overrides } from '@ligapedia/domain';
 
+/** data/overrides of the repository (same depth from apps/ingest/src and apps/ingest/dist). */
 export function overridesDir(): string {
   return process.env.LIGAPEDIA_OVERRIDES_DIR ?? fileURLToPath(new URL('../../../data/overrides', import.meta.url));
 }

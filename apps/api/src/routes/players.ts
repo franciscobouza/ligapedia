@@ -143,7 +143,7 @@ export async function playerRoutes(app: FastifyInstance, ctx: ApiContext): Promi
       sql<{ tournament_id: number; team_id: number }[]>`
         SELECT DISTINCT pa.tournament_id, pa.team_id FROM stats.player_agg pa
         JOIN stats.champions c ON c.tournament_id = pa.tournament_id AND c.team_id = pa.team_id
-        WHERE pa.player_id = ${id}`,
+        WHERE pa.player_id = ${id} AND pa.tournament_kind <> 'otro'`,
       sql<{ team_goals: number; attributed: number; yellow_seasons: number[] }[]>`
         SELECT coalesce(sum(pa.team_goals), 0)::int AS team_goals, coalesce(sum(pa.team_goals_attributed), 0)::int AS attributed,
                coalesce((SELECT array_agg(DISTINCT c.season_year ORDER BY c.season_year) FROM stats.coverage c

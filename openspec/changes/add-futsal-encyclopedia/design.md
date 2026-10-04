@@ -291,6 +291,16 @@ The once-per-day guard (D8) makes double triggers harmless.
 
 **Health.** `GET /api/health` returns DB status, the dataset version and the age of the last refresh, for an external uptime monitor.
 
+### D12b. Alternative: single-service deployment (Coolify + Railpack)
+
+Added during implementation at the owner's request. The same code also deploys as one Railpack-built application next to a managed PostgreSQL:
+- `pnpm start` runs the API, which also serves `apps/web/dist` with SPA fallback, cache headers and the Caddy security headers, and compresses responses.
+- The server runs migrations at boot.
+- An in-process scheduler spawns the ingest CLI in a child process: a backfill when nothing is published yet, and `daily --scheduled` at 03:00 America/Montevideo. The CLI's advisory lock and once-per-day guard keep restarts and multiple replicas safe.
+- A single `DATABASE_URL` serves both roles. The read-only API role is optional, and grants are skipped when it does not exist.
+- The platform's proxy terminates TLS.
+- `docker-compose.coolify.yml` together with `deploy/Dockerfile.single` deploys the app and its PostgreSQL as one Coolify resource. Coolify generates the credentials.
+
 ### D13. Sport dimension
 
 `registry` keys and `core.tournaments` carry `sport` (currently always `FUTSAL`). The fetcher takes the sport label as a parameter, and all URLs and queries are implicitly futsal. Adding a sport later means adding a sport segment to the routes and running the crawler with another label; the tables do not change.

@@ -1,0 +1,36 @@
+# syntax=docker/dockerfile:1
+# Single-service image: one Node process serves the website + API, runs migrations at boot, starts the
+# first backfill on an empty database and schedules the 03:00 Montevideo refresh (design D12b).
+# Used by docker-compose.coolify.yml.
+FROM node:24-alpine AS build
+RUN corepack enable
+WORKDIR /repo
+COPY pnpm-lock.yaml pnpm-workspace.yaml package.json ./
+COPY apps/api/package.json apps/api/
+COPY apps/ingest/package.json apps/ingest/
+COPY apps/web/package.json apps/web/
+COPY packages/db/package.json packages/db/
+COPY packages/domain/package.json packages/domain/
+COPY packages/contracts/package.json packages/contracts/
+RUN --mount=type=cache,id=pnpm,target=/root/.local/share/pnpm/store \
+    pnpm install --frozen-lockfile --filter "@ligapedia/api..." --filter "@ligapedia/ingest..." --filter "@ligapedia/web..."
+COPY . .
+RUN pnpm run build:deploy
+RUN pnpm --filter @ligapedia/api deploy --prod --legacy /out/apps/api \
+ && pnpm --filter @ligapedia/ingest deploy --prod --legacy /out/apps/ingest \
+ && rm -rf /out/apps/api/dist /out/apps/ingest/dist \
+ && cp -r apps/api/dist /out/apps/api/dist \
+ && cp -r apps/ingest/dist /out/apps/ingest/dist \
+ && mkdir -p /out/apps/web /out/packages/db /out/data \
+ && cp -r apps/web/dist /out/apps/web/dist \
+ && cp -r packages/db/drizzle /out/packages/db/drizzle \
+ && cp -r data/overrides /out/data/overrides
+
+FROM node:24-alpine
+ENV NODE_ENV=production PORT=3000
+WORKDIR /app
+COPY --from=build /out /app
+USER node
+EXPOSE 3000
+HEALTHCHECK --interval=30s --timeout=5s --start-period=60s CMD wget -qO- http://127.0.0.1:3000/api/health >/dev/null || exit 1
+CMD ["node", "apps/api/dist/server.js"]

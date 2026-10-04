@@ -89,7 +89,10 @@ export async function recordRoutes(app: FastifyInstance, ctx: ApiContext): Promi
         titulos: sql`count(DISTINCT c.tournament_id)`,
       };
       const championJoin =
-        metric === 'titulos' ? sql`LEFT JOIN stats.champions c ON c.tournament_id = pa.tournament_id AND c.team_id = pa.team_id` : sql``;
+        // Same title rule as team profiles: tournaments of kind "otro" (unclassified) never count.
+        metric === 'titulos'
+          ? sql`LEFT JOIN stats.champions c ON c.tournament_id = pa.tournament_id AND c.team_id = pa.team_id AND pa.tournament_kind <> 'otro'`
+          : sql``;
       const rows = await sql<{ player_id: number; slug: string; name: string; value: number; apps: number; team_ids: number[] }[]>`
         SELECT pa.player_id, p.slug, p.display_name AS name, (${expr[metric]})::float AS value, sum(pa.apps)::int AS apps,
                array_agg(pa.team_id ORDER BY pa.apps DESC) AS team_ids
