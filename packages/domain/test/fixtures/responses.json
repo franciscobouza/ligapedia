@@ -1,0 +1,3594 @@
+[
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 19906\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 24293\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 92923\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93115\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93117\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93190\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93191\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93443\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93444\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93447\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93448\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93449\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93725\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93726\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93739\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93753\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 93760\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"CAMILO KOCHEN\"},{\"Nombre\":\"RODOLFO STEWART SILVA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 94241\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 94305\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 94306\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 94307\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 94308\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Locatario",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo locatario del partido con ID: 94314\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 19906\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 24293\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 92923\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93115\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93117\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93190\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93191\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93443\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93444\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93447\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93448\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93449\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93725\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93726\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93739\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93753\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 93760\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 94240\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 94241\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 94305\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 94306\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 94307\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 94308\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Amonestados Visitante",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron amonestados para el equipo visitante del partido con ID: 94314\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 19906\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 24293\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 92923\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93115\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93117\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93190\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93191\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93443\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93444\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93447\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93448\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93449\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93725\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93726\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93739\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93753\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93760\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94240\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94241\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94305\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94306\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94307\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94308\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosLocatario",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94314\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 19906\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 24293\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 92923\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93115\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93117\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93190\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93191\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93443\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93444\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93447\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93448\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93449\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93725\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93726\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93739\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93753\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 93760\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94240\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94241\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94305\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94306\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94307\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94308\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "CambiosVisitante",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron cambios para el equipo locatario del partido con ID: 94314\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"6\",\"temporada\":\"A\\u00f1o 2009\",\"deporte\":\"FUTSAL\",\"torneo\":\"MAYORES\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"Futbol Sala 1\\u00aa Rueda\",\"Cancha\":\"CANCHA A FIJAR\",\"Fecha_Inicio\":\"2009-07-16 19:00:00\",\"Fecha_fin\":\"2009-07-16 19:00:00\",\"Locatario\":\"INSTITUTO UNIVERSITARIO ACJ\",\"goles_locatario\":\"8\",\"puntos_locatario\":\"1\",\"Visitante\":\"NUESTRA SE\\u00d1ORA DE LOURDES\",\"goles_visitante\":\"8\",\"puntos_visitante\":\"1\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"41\",\"temporada\":\"A\\u00d1O 2010\",\"deporte\":\"FUTSAL\",\"torneo\":\"MAYORES\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"Torneo Futsal 2010\",\"Cancha\":\"G. LICEO N15\",\"Fecha_Inicio\":\"2010-09-21 23:30:00\",\"Fecha_fin\":\"2010-09-21 23:30:00\",\"Locatario\":\"UNIVERSIDAD ORT\",\"goles_locatario\":\"5\",\"puntos_locatario\":\"3\",\"Visitante\":\"INSTITUTO UNIVERSITARIO ACJ\",\"goles_visitante\":\"2\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"19\",\"temporada\":\"A\\u00d1O 2017\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"2\",\"Divisional\":\"CLAUSURA\",\"Cancha\":\"G. COLEGIO ZORRILLA\",\"Fecha_Inicio\":\"2017-10-11 00:00:00\",\"Fecha_fin\":\"2017-10-11 00:00:00\",\"Locatario\":\"C.U.B.A.\",\"goles_locatario\":\"0\",\"puntos_locatario\":\"0\",\"Visitante\":\"LA BLANQUEADA\",\"goles_visitante\":\"3\",\"puntos_visitante\":\"3\",\"walk_over\":\"1\",\"observaciones\":\" Equipo local (CUBA) no se presenta.\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"1\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-05-16 22:00:00\",\"Fecha_fin\":\"2025-05-16 22:00:00\",\"Locatario\":\"UNIVERSIDAD ORT\",\"goles_locatario\":\"4\",\"puntos_locatario\":\"0\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"goles_visitante\":\"6\",\"puntos_visitante\":\"3\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"6\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-05-23 23:20:00\",\"Fecha_fin\":\"2025-05-23 23:20:00\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"goles_locatario\":\"4\",\"puntos_locatario\":\"3\",\"Visitante\":\"CLUB UGAB\",\"goles_visitante\":\"2\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"5\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-05-21 23:00:00\",\"Fecha_fin\":\"2025-05-21 23:00:00\",\"Locatario\":\"UNIVERSIDAD DE MONTEVIDEO\",\"goles_locatario\":\"2\",\"puntos_locatario\":\"0\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"goles_visitante\":\"3\",\"puntos_visitante\":\"3\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"3\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-05-14 23:15:00\",\"Fecha_fin\":\"2025-05-14 23:15:00\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"goles_locatario\":\"1\",\"puntos_locatario\":\"0\",\"Visitante\":\"BOHEMIOS FS\",\"goles_visitante\":\"5\",\"puntos_visitante\":\"3\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"4\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-05-23 22:00:00\",\"Fecha_fin\":\"2025-05-23 22:00:00\",\"Locatario\":\"BOHEMIOS FS\",\"goles_locatario\":\"4\",\"puntos_locatario\":\"1\",\"Visitante\":\"UNIVERSIDAD ORT\",\"goles_visitante\":\"4\",\"puntos_visitante\":\"1\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"2\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-05-16 23:15:00\",\"Fecha_fin\":\"2025-05-16 23:15:00\",\"Locatario\":\"CLUB UGAB\",\"goles_locatario\":\"3\",\"puntos_locatario\":\"1\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"goles_visitante\":\"3\",\"puntos_visitante\":\"1\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"12\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-06-02 23:15:00\",\"Fecha_fin\":\"2025-06-02 23:15:00\",\"Locatario\":\"CLUB UGAB\",\"goles_locatario\":\"1\",\"puntos_locatario\":\"0\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"goles_visitante\":\"3\",\"puntos_visitante\":\"3\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"8\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-05-30 22:15:00\",\"Fecha_fin\":\"2025-05-30 22:15:00\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"goles_locatario\":\"5\",\"puntos_locatario\":\"1\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"goles_visitante\":\"5\",\"puntos_visitante\":\"1\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"7\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-05-30 23:15:00\",\"Fecha_fin\":\"2025-05-30 23:15:00\",\"Locatario\":\"UNIVERSIDAD ORT\",\"goles_locatario\":\"9\",\"puntos_locatario\":\"3\",\"Visitante\":\"CLUB UGAB\",\"goles_visitante\":\"0\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"10\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-06-02 22:15:00\",\"Fecha_fin\":\"2025-06-02 22:15:00\",\"Locatario\":\"UNIVERSIDAD DE MONTEVIDEO\",\"goles_locatario\":\"2\",\"puntos_locatario\":\"0\",\"Visitante\":\"UNIVERSIDAD ORT\",\"goles_visitante\":\"5\",\"puntos_visitante\":\"3\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"9\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-05-28 12:00:00\",\"Fecha_fin\":\"2025-05-28 12:00:00\",\"Locatario\":\"BOHEMIOS FS\",\"goles_locatario\":\"3\",\"puntos_locatario\":\"1\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"goles_visitante\":\"3\",\"puntos_visitante\":\"1\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"11\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-06-04 23:00:00\",\"Fecha_fin\":\"2025-06-04 23:00:00\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"goles_locatario\":\"3\",\"puntos_locatario\":\"0\",\"Visitante\":\"BOHEMIOS FS\",\"goles_visitante\":\"6\",\"puntos_visitante\":\"3\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"13\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-06-11 23:00:00\",\"Fecha_fin\":\"2025-06-11 23:00:00\",\"Locatario\":\"UNIVERSIDAD ORT\",\"goles_locatario\":\"7\",\"puntos_locatario\":\"3\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"goles_visitante\":\"1\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"15\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-06-13 22:00:00\",\"Fecha_fin\":\"2025-06-13 22:00:00\",\"Locatario\":\"UNIVERSIDAD DE MONTEVIDEO\",\"goles_locatario\":\"4\",\"puntos_locatario\":\"3\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"goles_visitante\":\"3\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"14\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"1\",\"Divisional\":\"APERTURA\",\"Cancha\":\"G. UGAB\",\"Fecha_Inicio\":\"2025-06-13 23:30:00\",\"Fecha_fin\":\"2025-06-13 23:30:00\",\"Locatario\":\"BOHEMIOS FS\",\"goles_locatario\":\"6\",\"puntos_locatario\":\"3\",\"Visitante\":\"CLUB UGAB\",\"goles_visitante\":\"5\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"16\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"2\",\"Divisional\":\"APERTURA SERIE 1\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-06-25 23:19:00\",\"Fecha_fin\":\"2025-06-25 23:19:00\",\"Locatario\":\"BOHEMIOS FS\",\"goles_locatario\":\"12\",\"puntos_locatario\":\"3\",\"Visitante\":\"CLUB UGAB\",\"goles_visitante\":\"5\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"17\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"2\",\"Divisional\":\"APERTURA - SERIE 2\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-06-25 00:44:00\",\"Fecha_fin\":\"2025-06-25 00:44:00\",\"Locatario\":\"UNIVERSIDAD ORT\",\"goles_locatario\":\"9\",\"puntos_locatario\":\"3\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"goles_visitante\":\"4\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"20\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"2\",\"Divisional\":\"APERTURA SERIE 1\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-07-11 23:55:00\",\"Fecha_fin\":\"2025-07-11 23:55:00\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"goles_locatario\":\"6\",\"puntos_locatario\":\"3\",\"Visitante\":\"BOHEMIOS FS\",\"goles_visitante\":\"3\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"21\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"2\",\"Divisional\":\"APERTURA - SERIE 2\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-07-11 22:55:00\",\"Fecha_fin\":\"2025-07-11 22:55:00\",\"Locatario\":\"UNIVERSIDAD ORT\",\"goles_locatario\":\"3\",\"puntos_locatario\":\"0\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"goles_visitante\":\"4\",\"puntos_visitante\":\"3\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"18\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"2\",\"Divisional\":\"APERTURA SERIE 1\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-07-04 12:00:00\",\"Fecha_fin\":\"2025-07-04 12:00:00\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"goles_locatario\":\"4\",\"puntos_locatario\":\"3\",\"Visitante\":\"CLUB UGAB\",\"goles_visitante\":\"1\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"19\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"2\",\"Divisional\":\"APERTURA - SERIE 2\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-07-04 22:55:00\",\"Fecha_fin\":\"2025-07-04 22:55:00\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"goles_locatario\":\"7\",\"puntos_locatario\":\"3\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"goles_visitante\":\"4\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarDetallesPartido",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "[{\"nro_partido\":\"22\",\"temporada\":\"Temporada 112 \\\"A\\u00f1o 2025\\\"\",\"deporte\":\"FUTSAL\",\"torneo\":\"FUTSAL\",\"categoria\":\"MAYORES MASCULINO\",\"rueda\":\"3\",\"Divisional\":\"FINAL DEL APERTURA\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Fecha_Inicio\":\"2025-07-16 23:15:00\",\"Fecha_fin\":\"2025-07-16 23:15:00\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"goles_locatario\":\"2\",\"puntos_locatario\":\"3\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"goles_visitante\":\"1\",\"puntos_visitante\":\"0\",\"walk_over\":\"0\",\"observaciones\":null}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarFechas",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA - SERIE 2"
+  },
+  "status": 200,
+  "body": "[{\"fecha\":\"1\"},{\"fecha\":\"2\"},{\"fecha\":\"3\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarFechas",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA SERIE 1"
+  },
+  "status": 200,
+  "body": "[{\"fecha\":\"1\"},{\"fecha\":\"2\"},{\"fecha\":\"3\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarFechas",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA"
+  },
+  "status": 200,
+  "body": "[{\"fecha\":\"1\"},{\"fecha\":\"2\"},{\"fecha\":\"3\"},{\"fecha\":\"4\"},{\"fecha\":\"5\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarFechas",
+  "params": {
+   "temporada": "104",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "CLAUSURA"
+  },
+  "status": 200,
+  "body": "[{\"fecha\":\"1\"},{\"fecha\":\"2\"},{\"fecha\":\"3\"},{\"fecha\":\"4\"},{\"fecha\":\"5\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarFechas",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "FINAL DEL APERTURA"
+  },
+  "status": 200,
+  "body": "[{\"fecha\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarFechas",
+  "params": {
+   "temporada": "96",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES",
+   "serie": "Futbol Sala 1ª Rueda"
+  },
+  "status": 200,
+  "body": "[{\"fecha\":\"1\"},{\"fecha\":\"2\"},{\"fecha\":\"3\"},{\"fecha\":\"4\"},{\"fecha\":\"5\"},{\"fecha\":\"6\"},{\"fecha\":\"7\"},{\"fecha\":\"8\"},{\"fecha\":\"9\"},{\"fecha\":\"10\"},{\"fecha\":\"11\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarFechas",
+  "params": {
+   "temporada": "97",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES",
+   "serie": "Torneo Futsal 2010"
+  },
+  "status": 200,
+  "body": "[{\"fecha\":\"1\"},{\"fecha\":\"2\"},{\"fecha\":\"3\"},{\"fecha\":\"4\"},{\"fecha\":\"5\"},{\"fecha\":\"6\"},{\"fecha\":\"7\"},{\"fecha\":\"8\"},{\"fecha\":\"9\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA - SERIE 2",
+   "fecha": "1"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"1\",\"Fecha_Hora\":\"2025-06-25 23:30:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"UNIVERSIDAD ORT\",\"GL\":\"9\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"GV\":\"4\",\"ID\":\"94241\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA SERIE 1",
+   "fecha": "1"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"1\",\"Fecha_Hora\":\"2025-06-25 22:01:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"BOHEMIOS FS\",\"GL\":\"12\",\"Visitante\":\"CLUB UGAB\",\"GV\":\"5\",\"ID\":\"94240\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA",
+   "fecha": "1"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"1\",\"Fecha_Hora\":\"2025-05-16 20:45:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"UNIVERSIDAD ORT\",\"GL\":\"4\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"GV\":\"6\",\"ID\":\"92923\"},{\"Fecha\":\"1\",\"Fecha_Hora\":\"2025-05-16 22:00:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"CLUB UGAB\",\"GL\":\"3\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"GV\":\"3\",\"ID\":\"93443\"},{\"Fecha\":\"1\",\"Fecha_Hora\":\"2025-05-14 21:45:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"GL\":\"1\",\"Visitante\":\"BOHEMIOS FS\",\"GV\":\"5\",\"ID\":\"93190\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "FINAL DEL APERTURA",
+   "fecha": "1"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"1\",\"Fecha_Hora\":\"2025-07-16 21:45:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"GL\":\"2\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"GV\":\"1\",\"ID\":\"94314\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA - SERIE 2",
+   "fecha": "2"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"2\",\"Fecha_Hora\":\"2025-07-04 21:40:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"GL\":\"7\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"GV\":\"4\",\"ID\":\"94308\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA SERIE 1",
+   "fecha": "2"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"2\",\"Fecha_Hora\":\"2025-07-04 22:50:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"GL\":\"4\",\"Visitante\":\"CLUB UGAB\",\"GV\":\"1\",\"ID\":\"94307\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA",
+   "fecha": "2"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"2\",\"Fecha_Hora\":\"2025-05-23 20:45:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"BOHEMIOS FS\",\"GL\":\"4\",\"Visitante\":\"UNIVERSIDAD ORT\",\"GV\":\"4\",\"ID\":\"93191\"},{\"Fecha\":\"2\",\"Fecha_Hora\":\"2025-05-21 21:45:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"UNIVERSIDAD DE MONTEVIDEO\",\"GL\":\"2\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"GV\":\"3\",\"ID\":\"93117\"},{\"Fecha\":\"2\",\"Fecha_Hora\":\"2025-05-23 22:00:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"GL\":\"4\",\"Visitante\":\"CLUB UGAB\",\"GV\":\"2\",\"ID\":\"93115\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "96",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES",
+   "serie": "Futbol Sala 1ª Rueda",
+   "fecha": "2"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"2\",\"Fecha_Hora\":\"2009-07-16 18:00:00\",\"Cancha\":\"CANCHA A FIJAR\",\"Locatario\":\"INSTITUTO UNIVERSITARIO ACJ\",\"GL\":\"8\",\"Visitante\":\"NUESTRA SE\\u00d1ORA DE LOURDES\",\"GV\":\"8\",\"ID\":\"19906\"},{\"Fecha\":\"2\",\"Fecha_Hora\":\"2009-07-17 18:00:00\",\"Cancha\":\"CANCHA A FIJAR\",\"Locatario\":\"UNIVERSIDAD DE LA EMPRESA\",\"GL\":\"11\",\"Visitante\":\"CLUB UNIVERSIDAD CATOLICA\",\"GV\":\"10\",\"ID\":\"19907\"},{\"Fecha\":\"2\",\"Fecha_Hora\":\"2009-07-16 18:00:00\",\"Cancha\":\"CANCHA A FIJAR\",\"Locatario\":\"ELBIO FERNANDEZ\",\"GL\":\"3\",\"Visitante\":\"SAN JOSE DE LA PROVIDENCIA uni\",\"GV\":\"0\",\"ID\":\"19909\"},{\"Fecha\":\"2\",\"Fecha_Hora\":\"2009-07-16 18:00:00\",\"Cancha\":\"CANCHA A FIJAR\",\"Locatario\":\"BBC LAYVA\",\"GL\":\"5\",\"Visitante\":\"ESPARTA UNIVERSITARIO\",\"GV\":\"9\",\"ID\":\"19908\"},{\"Fecha\":\"2\",\"Fecha_Hora\":\"2009-07-16 18:00:00\",\"Cancha\":\"CANCHA A FIJAR\",\"Locatario\":\"CLUB FUERZA AEREA\",\"GL\":\"7\",\"Visitante\":\"A.E.B.U\",\"GV\":\"11\",\"ID\":\"19910\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA - SERIE 2",
+   "fecha": "3"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"3\",\"Fecha_Hora\":\"2025-07-11 21:50:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"UNIVERSIDAD ORT\",\"GL\":\"3\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"GV\":\"4\",\"ID\":\"94306\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA SERIE 1",
+   "fecha": "3"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"3\",\"Fecha_Hora\":\"2025-07-11 22:50:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"GL\":\"6\",\"Visitante\":\"BOHEMIOS FS\",\"GV\":\"3\",\"ID\":\"94305\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA",
+   "fecha": "3"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"3\",\"Fecha_Hora\":\"2025-05-30 22:00:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"UNIVERSIDAD ORT\",\"GL\":\"9\",\"Visitante\":\"CLUB UGAB\",\"GV\":\"0\",\"ID\":\"93448\"},{\"Fecha\":\"3\",\"Fecha_Hora\":\"2025-05-30 20:45:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"HEBRAICA UNIVERSITARIO\",\"GL\":\"5\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"GV\":\"5\",\"ID\":\"93447\"},{\"Fecha\":\"3\",\"Fecha_Hora\":\"2025-05-28 21:45:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"BOHEMIOS FS\",\"GL\":\"3\",\"Visitante\":\"UNIVERSIDAD DE MONTEVIDEO\",\"GV\":\"3\",\"ID\":\"93725\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA",
+   "fecha": "4"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"4\",\"Fecha_Hora\":\"2025-06-02 20:45:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"UNIVERSIDAD DE MONTEVIDEO\",\"GL\":\"2\",\"Visitante\":\"UNIVERSIDAD ORT\",\"GV\":\"5\",\"ID\":\"93449\"},{\"Fecha\":\"4\",\"Fecha_Hora\":\"2025-06-04 21:45:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"ALEMAN UNIVERSITARIO\",\"GL\":\"3\",\"Visitante\":\"BOHEMIOS FS\",\"GV\":\"6\",\"ID\":\"93726\"},{\"Fecha\":\"4\",\"Fecha_Hora\":\"2025-06-02 22:00:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"CLUB UGAB\",\"GL\":\"1\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"GV\":\"3\",\"ID\":\"93444\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA",
+   "fecha": "5"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"5\",\"Fecha_Hora\":\"2025-06-11 21:45:00\",\"Cancha\":\"PLAZA 11 (CERRO)\",\"Locatario\":\"UNIVERSIDAD ORT\",\"GL\":\"7\",\"Visitante\":\"HEBRAICA UNIVERSITARIO\",\"GV\":\"1\",\"ID\":\"93739\"},{\"Fecha\":\"5\",\"Fecha_Hora\":\"2025-06-13 22:00:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"BOHEMIOS FS\",\"GL\":\"6\",\"Visitante\":\"CLUB UGAB\",\"GV\":\"5\",\"ID\":\"93760\"},{\"Fecha\":\"5\",\"Fecha_Hora\":\"2025-06-13 20:45:00\",\"Cancha\":\"G. UGAB\",\"Locatario\":\"UNIVERSIDAD DE MONTEVIDEO\",\"GL\":\"4\",\"Visitante\":\"ALEMAN UNIVERSITARIO\",\"GV\":\"3\",\"ID\":\"93753\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "104",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "CLAUSURA",
+   "fecha": "5"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"5\",\"Fecha_Hora\":\"2017-10-11 00:00:00\",\"Cancha\":\"G. COLEGIO ZORRILLA\",\"Locatario\":\"C.U.B.A.\",\"GL\":\"0\",\"Visitante\":\"LA BLANQUEADA\",\"GV\":\"3\",\"ID\":\"55623\"},{\"Fecha\":\"5\",\"Fecha_Hora\":\"2017-10-11 21:30:00\",\"Cancha\":\"G. COLEGIO ZORRILLA\",\"Locatario\":\"HACHE DE FUTBOL\",\"GL\":\"13\",\"Visitante\":\"BODY FACTORY\",\"GV\":\"4\",\"ID\":\"55794\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarPartidos",
+  "params": {
+   "temporada": "97",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES",
+   "serie": "Torneo Futsal 2010",
+   "fecha": "9"
+  },
+  "status": 200,
+  "body": "[{\"Fecha\":\"9\",\"Fecha_Hora\":\"2010-09-21 22:27:00\",\"Cancha\":\"G. LICEO N15\",\"Locatario\":\"UNIVERSIDAD ORT\",\"GL\":\"5\",\"Visitante\":\"INSTITUTO UNIVERSITARIO ACJ\",\"GV\":\"2\",\"ID\":\"24293\"},{\"Fecha\":\"9\",\"Fecha_Hora\":\"2010-09-22 20:15:00\",\"Cancha\":\"G. LICEO N15\",\"Locatario\":\"CRANDON UNIVERSITARIO\",\"GL\":\"9\",\"Visitante\":\"CLUB UNIVERSIDAD CATOLICA\",\"GV\":\"5\",\"ID\":\"24294\"},{\"Fecha\":\"9\",\"Fecha_Hora\":\"2010-09-22 21:35:00\",\"Cancha\":\"G. LICEO N15\",\"Locatario\":\"ESPARTA UNIVERSITARIO\",\"GL\":\"12\",\"Visitante\":\"DOLORES\",\"GV\":\"5\",\"ID\":\"24295\"},{\"Fecha\":\"9\",\"Fecha_Hora\":\"2010-09-21 21:10:00\",\"Cancha\":\"G. LICEO N15\",\"Locatario\":\"NUESTRA SE\\u00d1ORA DE LOURDES\",\"GL\":\"6\",\"Visitante\":\"UNIVERSIDAD DE LA EMPRESA\",\"GV\":\"4\",\"ID\":\"24296\"},{\"Fecha\":\"9\",\"Fecha_Hora\":\"2010-09-22 22:42:00\",\"Cancha\":\"G. LICEO N15\",\"Locatario\":\"CLUB FUERZA AEREA\",\"GL\":\"3\",\"Visitante\":\"ELBIO FERNANDEZ\",\"GV\":\"12\",\"ID\":\"24297\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "100",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL MASCULINO RUEDA 1\"},{\"nombre\":\"FUTBOL SALA MASC. RUEDA 2\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "100",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL FEMENINO APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"FINAL ANUAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "101",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"FINAL ANUAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "101",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL FEMENINO APERTURA\"},{\"nombre\":\"FUTSAL FEMENINO\"},{\"nombre\":\"FINAL ANUAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "102",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"1\\u00aa Rueda APERTURA \"},{\"nombre\":\"2\\u00aa Rueda APERTURA \"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"FUTSAL COPA DE ORO\"},{\"nombre\":\"FUTSAL COPA DE PLATA\"},{\"nombre\":\"FINAL ANUAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "102",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"CLAUSURA SERIE1\"},{\"nombre\":\"CLAUSURA SERIE2\"},{\"nombre\":\"COPA DE ORO\"},{\"nombre\":\"COPA DE PLATA\"},{\"nombre\":\"SEMI Y FINAL CO\"},{\"nombre\":\"SEMI Y FINAL CP\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "103",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"RUEDA 2 APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"COPA DE PLATA\"},{\"nombre\":\"COPA DE ORO\"},{\"nombre\":\"FINAL ORO\"},{\"nombre\":\"3\\u00ba Y 4\\u00ba PUESTO\"},{\"nombre\":\"FINAL ANUAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "103",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"CLASIFICATORIO\"},{\"nombre\":\"CUARTOS DE FINAL\"},{\"nombre\":\"SEMIS ORO \"},{\"nombre\":\"SEMIS PLATA\"},{\"nombre\":\"FINAL ORO\"},{\"nombre\":\"3\\u00ba Y 4\\u00ba PUESTO\"},{\"nombre\":\"FINAL ANUAL\"},{\"nombre\":\"COPA DE PLATA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "104",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"COPA DE ORO\"},{\"nombre\":\"FINAL ANUAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "104",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"CLASIFICATORIO\"},{\"nombre\":\"CUARTOS DE FINAL\"},{\"nombre\":\"SEMIS ORO\"},{\"nombre\":\"SEMIS PLATA\"},{\"nombre\":\"FINAL ORO\"},{\"nombre\":\"3\\u00ba Y 4\\u00ba PUESTO PLATA\"},{\"nombre\":\"3\\u00ba Y 4\\u00ba PUESTO ORO\"},{\"nombre\":\"FINAL PLATA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "105",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA RUEDA 1\"},{\"nombre\":\"APERTURA RUEDA 2\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"PLAY OFF SEMIS\"},{\"nombre\":\"FINALES ORO\"},{\"nombre\":\"TERCER Y CUARTO PUESTO\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "105",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"CLASIFICATORIO 1a. RUEDA\"},{\"nombre\":\"CLASIFICATORIO 2a. RUEDA\"},{\"nombre\":\"PLAY OFF CUARTOS\"},{\"nombre\":\"COPA DE ORO SEMIS\"},{\"nombre\":\"COPA DE PLATA\"},{\"nombre\":\"COPA DE ORO FINALES\"},{\"nombre\":\"TERCER Y CUARTO PUESTO\"},{\"nombre\":\"COPA DE PLATA FINALES\"},{\"nombre\":\"TORNEO UNIVERSITARIO\"},{\"nombre\":\"FINAL PLATA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "106",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"COPA DE ORO SEMIS\"},{\"nombre\":\"COPA DE PLATA SEMIS\"},{\"nombre\":\"COPA DE ORO FINAL\"},{\"nombre\":\"COPA DE PLATA FINAL\"},{\"nombre\":\"SERIE 2\"},{\"nombre\":\"SERIE 1\"},{\"nombre\":\"SEMIFINALES\"},{\"nombre\":\"FINAL FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "106",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA RUEDA 1\"},{\"nombre\":\"APERTURA RUEDA 2\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"SEMIFINALES CLAUSURA\"},{\"nombre\":\"FINALES\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "107",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"Clausura-Playoff-Cuartos\"},{\"nombre\":\"SEMIFINALES TIT\\u00daLO\"},{\"nombre\":\"SEMIFINALES COPA DE PLATA\"},{\"nombre\":\"CLAUSURA FINAL ORO\"},{\"nombre\":\"CLAUSURA FINAL PLATA\"},{\"nombre\":\"FINAL UNIVERSITARIO\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "108",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL MASCULINO RUEDA 1\"},{\"nombre\":\"FUTSAL MASCULINO RUEDA 2\"},{\"nombre\":\"SEMIFINALES ORO\"},{\"nombre\":\"SEMIFINALES PLATA\"},{\"nombre\":\"FINALES ORO\"},{\"nombre\":\"FINALES PLATA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "109",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"F\\u00daTBOL SALA APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"COPA DE ORO\"},{\"nombre\":\"COPA DE PLATA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "110",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"Futbol Sala Apertura\"},{\"nombre\":\"Futbol Sala Serie 1\"},{\"nombre\":\"Futbol Sala Serie 2\"},{\"nombre\":\"FINAL APERTURA\"},{\"nombre\":\"FUTBOL SALA CLAUSURA\"},{\"nombre\":\"CLAUSURA SERIE 1\"},{\"nombre\":\"CLAUSURA SERIE 2\"},{\"nombre\":\"CLAUSURA FINAL\"},{\"nombre\":\"PLAY IN\"},{\"nombre\":\"PLAY OFF - SEMIFINALES\"},{\"nombre\":\"COPA DE PLATA FINAL\"},{\"nombre\":\"FINALES\"},{\"nombre\":\"FINALES UNIVERSITARIO\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "111",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL APERTURA\"},{\"nombre\":\"APERTURA SERIE 1\"},{\"nombre\":\"APERTURA SERIE 2\"},{\"nombre\":\"FINAL APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"CLAUSURA SERIE 1\"},{\"nombre\":\"CLAUSURA SERIE 2\"},{\"nombre\":\"CLAUSURA FINAL\"},{\"nombre\":\"PLAY IN\"},{\"nombre\":\"SEMIFINALES TIT\\u00daLO\"},{\"nombre\":\"FINAL PLATA\"},{\"nombre\":\"FINAL PLAY OFF\"},{\"nombre\":\"FINAL DEL UNIVERSITARIO\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"APERTURA SERIE 1\"},{\"nombre\":\"APERTURA - SERIE 2\"},{\"nombre\":\"FINAL DEL APERTURA\"},{\"nombre\":\"CLAUSURA RUEDA\"},{\"nombre\":\"CLAUSURA SERIE 1\"},{\"nombre\":\"CLAUSURA SERIE 2\"},{\"nombre\":\"FINAL DEL CLAUSURA\"},{\"nombre\":\"PLAY IN \"},{\"nombre\":\"SEMIFINALES\"},{\"nombre\":\"FINAL PLATA\"},{\"nombre\":\"FINAL PLAY OFF\"},{\"nombre\":\"FINALES UNIVERSITARIO\"},{\"nombre\":\"FINAL DEL UNIVERSITARIO\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "113",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"APERTURA\"},{\"nombre\":\"CLAUSURA\"},{\"nombre\":\"REPECHAJE\"},{\"nombre\":\"CUARTOS DE FINAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "93",
+   "deporte": "FUTSAL",
+   "torneo": "FUTBOL SALA"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL 2006 APERTURA\"},{\"nombre\":\"FUTSAL 2006 CLAUSURA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "94",
+   "deporte": "FUTSAL",
+   "torneo": "FUTBOL SALA"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"Divisional \\\" A \\\"\"},{\"nombre\":\"Divisional A\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "95",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"Futsal Rueda 1\"},{\"nombre\":\"Futsal Rueda 2\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "96",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"Futbol Sala 1\\u00aa Rueda\"},{\"nombre\":\"CLAUSURA GRUPO 1\"},{\"nombre\":\"CLAUSURA GRUPO 2\"},{\"nombre\":\"CLAUSURA GR.1 R.2\"},{\"nombre\":\"REPECHAJE\"},{\"nombre\":\"Finales Oro\"},{\"nombre\":\"Finales Plata\"},{\"nombre\":\"Final Oro\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "97",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"Torneo Futsal 2010\"},{\"nombre\":\"Futsal Clausura Grupo 1\"},{\"nombre\":\"Futsal Clausura Grupo2\"},{\"nombre\":\"Futsal Cla. Gru1 Rueda 2\"},{\"nombre\":\"Futsal Repechaje\"},{\"nombre\":\"Futsal Copa de Oro\"},{\"nombre\":\"Futsal Copa de Plata\"},{\"nombre\":\"Futsal Finales\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "98",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"TORNEO APERTURA\"},{\"nombre\":\"CUARTOS DE FINAL\"},{\"nombre\":\"SEMIFINALES\"},{\"nombre\":\"FINALES\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "98",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"1\\u00aa RUEDA CLASIFICATORIA\"},{\"nombre\":\"Copa de Oro Semifinales\"},{\"nombre\":\"Copa de Plata\"},{\"nombre\":\"Finales Copa de Oro\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "99",
+   "deporte": "FUTSAL",
+   "torneo": "FUTBOL SALA"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"Copa 2\"},{\"nombre\":\"FUTSAL MASCULINO RUEDA2\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "99",
+   "deporte": "FUTSAL",
+   "torneo": "MAYORES"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"Copa 1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarSeries",
+  "params": {
+   "temporada": "99",
+   "deporte": "FUTSAL",
+   "torneo": "Mayores Femenino"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL FEMENINO APERTURA\"},{\"nombre\":\"Clausura Grupo A\"},{\"nombre\":\"Clausura Grupo B\"},{\"nombre\":\"Repechaje\"},{\"nombre\":\"COPA DE PLATA\"},{\"nombre\":\"SEMIFINALES COPA DE ORO\"},{\"nombre\":\"FINALES\"},{\"nombre\":\"FUTSAL FEMENINO\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTemporadas",
+  "params": {},
+  "status": 200,
+  "body": "[{\"codigo\":\"113\"},{\"codigo\":\"112\"},{\"codigo\":\"111\"},{\"codigo\":\"110\"},{\"codigo\":\"109\"},{\"codigo\":\"108\"},{\"codigo\":\"107\"},{\"codigo\":\"106\"},{\"codigo\":\"105\"},{\"codigo\":\"104\"},{\"codigo\":\"103\"},{\"codigo\":\"102\"},{\"codigo\":\"101\"},{\"codigo\":\"100\"},{\"codigo\":\"99\"},{\"codigo\":\"98\"},{\"codigo\":\"97\"},{\"codigo\":\"96\"},{\"codigo\":\"95\"},{\"codigo\":\"94\"},{\"codigo\":\"93\"},{\"codigo\":\"92\"},{\"codigo\":\"91\"},{\"codigo\":\"90\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "100",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"MAYORES\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "101",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "102",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "103",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "104",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "105",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "106",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "107",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "108",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "109",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "110",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "111",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "113",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTSAL\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "93",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTBOL SALA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "94",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"FUTBOL SALA\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "95",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"MAYORES\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "96",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"MAYORES\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "97",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"MAYORES\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "98",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"MAYORES\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "cargarTorneos",
+  "params": {
+   "temporada": "99",
+   "deporte": "FUTSAL"
+  },
+  "status": 200,
+  "body": "[{\"nombre\":\"MAYORES\"},{\"nombre\":\"FUTBOL SALA\"},{\"nombre\":\"Mayores Femenino\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 19906\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"ANDRES MAURICIO REPETTO\",\"observaciones\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 92923\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93115\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93117\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93190\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"RODRIGO ALFONSO SORIA\",\"observaciones\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93443\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93444\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93447\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93448\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93449\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93725\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93726\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93739\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"JUAN BAUTISTA CROSA\",\"observaciones\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93760\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94240\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94241\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94305\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94306\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94307\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94308\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Locatario",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94314\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"DIEGO MARTIN TOMMASINO\",\"observaciones\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"RENZO BADARACCO\",\"observaciones\":\"\"},{\"Nombre\":\"DIEGO PARENTELLI\",\"observaciones\":\"\"},{\"Nombre\":\"MATHIAS ROMBYS\",\"observaciones\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 92923\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"NICOLAS GARCIA\",\"observaciones\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93117\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93190\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "[{\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"observaciones\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93443\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93444\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93447\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93448\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93449\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93725\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93726\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93739\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93753\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 93760\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94240\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94241\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94305\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94306\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94307\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94308\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Expulsados Visitante",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron expulsados para el equipo locatario del partido con ID: 94314\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"20719\",\"Nombre\":\"DIEGO MARTIN PAEZ\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"22727\",\"Nombre\":\"DIEGO HARO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"24199\",\"Nombre\":\"CARLOS EDUARDO KEOSSEIAN\",\"minutos\":\"2\",\"EnContra\":\"0\"},{\"carne\":\"26947\",\"Nombre\":\"BRUNO EDUARDO DI MARTINO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"32688\",\"Nombre\":\"GUILLERMO ALOY\",\"minutos\":\"3\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"19886\",\"Nombre\":\"MARTIN MANUEL SANCHEZ\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"22359\",\"Nombre\":\"JUAN CARLOS MUSSIO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"29381\",\"Nombre\":\"GASTON GARRIDO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"31092\",\"Nombre\":\"GONZALO FERREIRO\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron goles para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"41257\",\"Nombre\":\"DIEGO ANDRES ROCCA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65902\",\"Nombre\":\"FABRIZIO DONATO FERRANTY\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"52148\",\"Nombre\":\"AGUSTIN CORBO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63400\",\"Nombre\":\"RODRIGO ALFONSO SORIA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"30878\",\"Nombre\":\"SEBASTIAN ANDRES ALABACHIAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"30878\",\"Nombre\":\"SEBASTIAN ANDRES ALABACHIAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"61274\",\"Nombre\":\"DAVID ALEJANDRO ESCOBAR\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"61274\",\"Nombre\":\"DAVID ALEJANDRO ESCOBAR\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"51281\",\"Nombre\":\"JUSTINIANO MOLINA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"54763\",\"Nombre\":\"JUAN BAUTISTA CROSA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"66008\",\"Nombre\":\"RODOLFO STEWART SILVA\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"29318\",\"Nombre\":\"VITTORIO CALVETTI\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"27399\",\"Nombre\":\"JOAQUIN PASQUET\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesLocatario",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"minutos\":\"1\",\"EnContra\":\"0\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"19087\",\"Nombre\":\"AGUSTIN MATTOS\",\"minutos\":\"2\",\"EnContra\":\"1\"},{\"carne\":\"24985\",\"Nombre\":\"BERNARDO RAFAEL PALAUS\",\"minutos\":\"3\",\"EnContra\":\"1\"},{\"carne\":\"26174\",\"Nombre\":\"GASTON FREIGEDO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"26947\",\"Nombre\":\"BRUNO EDUARDO DI MARTINO\",\"minutos\":\"1\",\"EnContra\":\"0\"},{\"carne\":\"31024\",\"Nombre\":\"AGUSTIN MESA\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"25089\",\"Nombre\":\"MAXIMILIANO SILVERA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"28833\",\"Nombre\":\"DIEGO PARENTELLI\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron goles para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65956\",\"Nombre\":\"DIEGO ANTRANIK CALATZIAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"47216\",\"Nombre\":\"FEDERICO AMARAL\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"59235\",\"Nombre\":\"AGUSTIN COSTA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65902\",\"Nombre\":\"FABRIZIO DONATO FERRANTY\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron goles para el equipo locatario del partido con ID: 93448\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"47216\",\"Nombre\":\"FEDERICO AMARAL\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"48685\",\"Nombre\":\"MAURICIO IHARA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"56696\",\"Nombre\":\"AGUSTIN GUEREQUIZ\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63404\",\"Nombre\":\"PEDRO NICOLAS PEYRE\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63404\",\"Nombre\":\"PEDRO NICOLAS PEYRE\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"17146\",\"Nombre\":\"ANDRES ISMAEL ERRO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"56604\",\"Nombre\":\"JOAQUIN LUPANO\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"52646\",\"Nombre\":\"JUAN MARTIN BONFIGLIO\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"minutos\":\"1\",\"EnContra\":\"1\"},{\"carne\":\"63475\",\"Nombre\":\"JUAN IBARRA\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "GolesVisitante",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"minutos\":\"1\",\"EnContra\":\"1\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"A A ,FEDERACION\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"A A ,FEDERACION\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"A A ,FEDERACION\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "92923"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93115"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93117"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93190"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93191"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"A A ,FEDERACION\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93444"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93447"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"A A ,FEDERACION\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"A A ,FEDERACION\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"A A ,FEDERACION\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93725"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93726"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93739"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "[{\"Cargo\":\"Arbitro\",\"Nombre\":\"ALTEZ - ,LUIS MARCELO\"},{\"Cargo\":\"1er Linea\",\"Nombre\":\"CHAVES - ,DANIEL\"},{\"Cargo\":\"2do Linea\",\"Nombre\":\"LEDESMA MAGALLANES ,FRANCIS\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "jueces",
+  "params": {
+   "id": "94314"
+  },
+  "status": 500,
+  "body": ""
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"32688\",\"Nombre\":\"GUILLERMO ALOY\",\"camiseta\":\"20\",\"Capitan\":\"(C)\"},{\"carne\":\"24199\",\"Nombre\":\"CARLOS EDUARDO KEOSSEIAN\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"22727\",\"Nombre\":\"DIEGO HARO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"30448\",\"Nombre\":\"FLAVIO LEANDRO CHAGAS\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"32689\",\"Nombre\":\"GABRIEL MIRABALLES\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"20719\",\"Nombre\":\"DIEGO MARTIN PAEZ\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"26947\",\"Nombre\":\"BRUNO EDUARDO DI MARTINO\",\"camiseta\":\"10\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"22359\",\"Nombre\":\"JUAN CARLOS MUSSIO\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"19886\",\"Nombre\":\"MARTIN MANUEL SANCHEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"31092\",\"Nombre\":\"GONZALO FERREIRO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"31161\",\"Nombre\":\"ANDRES MAURICIO REPETTO\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"29381\",\"Nombre\":\"GASTON GARRIDO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"camiseta\":\"11\",\"Capitan\":\"(C)\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "{\"error\":\"No se encontraron titulares para el equipo locatario del partido con ID: 55623\"}"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60263\",\"Nombre\":\"CRISTHIAN DARIO SAAVEDRA\",\"camiseta\":\"1\",\"Capitan\":\"(C)\"},{\"carne\":\"63504\",\"Nombre\":\"RODRIGO GONZALEZ\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"65902\",\"Nombre\":\"FABRIZIO DONATO FERRANTY\",\"camiseta\":\"23\",\"Capitan\":\"\"},{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"camiseta\":\"0\",\"Capitan\":\"\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"41257\",\"Nombre\":\"DIEGO ANDRES ROCCA\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"59235\",\"Nombre\":\"AGUSTIN COSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"camiseta\":\"13\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49849\",\"Nombre\":\"MARCOS MORAN\",\"camiseta\":\"13\",\"Capitan\":\"(C)\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"camiseta\":\"22\",\"Capitan\":\"\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"21\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"97\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"46\",\"Capitan\":\"\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"camiseta\":\"0\",\"Capitan\":\"\"},{\"carne\":\"54751\",\"Nombre\":\"LUCA ODDONE\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"54993\",\"Nombre\":\"MARTIN CASELLA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"56604\",\"Nombre\":\"JOAQUIN LUPANO\",\"camiseta\":\"12\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"63309\",\"Nombre\":\"TOMAS EZEQUIEL PIRIZ\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"51281\",\"Nombre\":\"JUSTINIANO MOLINA\",\"camiseta\":\"34\",\"Capitan\":\"\"},{\"carne\":\"51243\",\"Nombre\":\"TOMAS BLANCO\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"camiseta\":\"10\",\"Capitan\":\"(C)\"},{\"carne\":\"54763\",\"Nombre\":\"JUAN BAUTISTA CROSA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"52510\",\"Nombre\":\"EMILIO RETA\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"camiseta\":\"33\",\"Capitan\":\"\"},{\"carne\":\"63475\",\"Nombre\":\"JUAN IBARRA\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"camiseta\":\"17\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"65910\",\"Nombre\":\"FACUNDO EMMANUEL BENITEZ\",\"camiseta\":\"16\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"65905\",\"Nombre\":\"NAHUEL ALVEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"51\",\"Capitan\":\"\"},{\"carne\":\"65906\",\"Nombre\":\"GABRIEL GOMEZ\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"camiseta\":\"99\",\"Capitan\":\"\"},{\"carne\":\"47253\",\"Nombre\":\"JULIAN FLECHNER\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"65908\",\"Nombre\":\"FRANCO AGUSTIN MORALES\",\"camiseta\":\"23\",\"Capitan\":\"\"},{\"carne\":\"61274\",\"Nombre\":\"DAVID ALEJANDRO ESCOBAR\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"65898\",\"Nombre\":\"EMILIANO VERDI\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"63400\",\"Nombre\":\"RODRIGO ALFONSO SORIA\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"camiseta\":\"12\",\"Capitan\":\"(C)\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"52148\",\"Nombre\":\"AGUSTIN CORBO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"53759\",\"Nombre\":\"SIMON TERRA\",\"camiseta\":\"1\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"65960\",\"Nombre\":\"PABLO DAHEL GONALEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"30878\",\"Nombre\":\"SEBASTIAN ANDRES ALABACHIAN\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"65954\",\"Nombre\":\"ARTIN KEMANIAN\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"56696\",\"Nombre\":\"AGUSTIN GUEREQUIZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"65955\",\"Nombre\":\"JORGE MARCEL KINOSIAN\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"65956\",\"Nombre\":\"DIEGO ANTRANIK CALATZIAN\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"65957\",\"Nombre\":\"SEBASTIAN OVSIENCOV\",\"camiseta\":\"40\",\"Capitan\":\"\"},{\"carne\":\"43406\",\"Nombre\":\"AGUSTIN ORREGO\",\"camiseta\":\"11\",\"Capitan\":\"(C)\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65960\",\"Nombre\":\"PABLO DAHEL GONALEZ\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"65954\",\"Nombre\":\"ARTIN KEMANIAN\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"65957\",\"Nombre\":\"SEBASTIAN OVSIENCOV\",\"camiseta\":\"40\",\"Capitan\":\"\"},{\"carne\":\"56696\",\"Nombre\":\"AGUSTIN GUEREQUIZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"43406\",\"Nombre\":\"AGUSTIN ORREGO\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"65955\",\"Nombre\":\"JORGE MARCEL KINOSIAN\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"camiseta\":\"8\",\"Capitan\":\"(C)\"},{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"camiseta\":\"3\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"camiseta\":\"8\",\"Capitan\":\"(C)\"},{\"carne\":\"65905\",\"Nombre\":\"NAHUEL ALVEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"65910\",\"Nombre\":\"FACUNDO EMMANUEL BENITEZ\",\"camiseta\":\"16\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"51\",\"Capitan\":\"\"},{\"carne\":\"61274\",\"Nombre\":\"DAVID ALEJANDRO ESCOBAR\",\"camiseta\":\"99\",\"Capitan\":\"\"},{\"carne\":\"47253\",\"Nombre\":\"JULIAN FLECHNER\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"45571\",\"Nombre\":\"JOSE MARIA NU\\u00d0EZ\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"65908\",\"Nombre\":\"FRANCO AGUSTIN MORALES\",\"camiseta\":\"55\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60263\",\"Nombre\":\"CRISTHIAN DARIO SAAVEDRA\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"59235\",\"Nombre\":\"AGUSTIN COSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"camiseta\":\"18\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"camiseta\":\"10\",\"Capitan\":\"(C)\"},{\"carne\":\"52510\",\"Nombre\":\"EMILIO RETA\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"camiseta\":\"33\",\"Capitan\":\"\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"51281\",\"Nombre\":\"JUSTINIANO MOLINA\",\"camiseta\":\"34\",\"Capitan\":\"\"},{\"carne\":\"62727\",\"Nombre\":\"CARLOS OCTAVIO CORREA\",\"camiseta\":\"35\",\"Capitan\":\"\"},{\"carne\":\"50779\",\"Nombre\":\"JUAN IGNACIO FERREIRA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"51243\",\"Nombre\":\"TOMAS BLANCO\",\"camiseta\":\"1\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"66008\",\"Nombre\":\"RODOLFO STEWART SILVA\",\"camiseta\":\"16\",\"Capitan\":\"\"},{\"carne\":\"52148\",\"Nombre\":\"AGUSTIN CORBO\",\"camiseta\":\"0\",\"Capitan\":\"\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"65912\",\"Nombre\":\"SERGIO RIVERO\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"camiseta\":\"13\",\"Capitan\":\"(C)\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"camiseta\":\"15\",\"Capitan\":\"\"},{\"carne\":\"63404\",\"Nombre\":\"PEDRO NICOLAS PEYRE\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"65898\",\"Nombre\":\"EMILIANO VERDI\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"1\",\"Capitan\":\"(C)\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"27399\",\"Nombre\":\"JOAQUIN PASQUET\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"54993\",\"Nombre\":\"MARTIN CASELLA\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"56604\",\"Nombre\":\"JOAQUIN LUPANO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"54751\",\"Nombre\":\"LUCA ODDONE\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"55191\",\"Nombre\":\"FEDERICO SAINTAGNE\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"48685\",\"Nombre\":\"MAURICIO IHARA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"camiseta\":\"13\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60263\",\"Nombre\":\"CRISTHIAN DARIO SAAVEDRA\",\"camiseta\":\"1\",\"Capitan\":\"(C)\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"59235\",\"Nombre\":\"AGUSTIN COSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"58285\",\"Nombre\":\"RODRIGO BROTONS\",\"camiseta\":\"51\",\"Capitan\":\"\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"52510\",\"Nombre\":\"EMILIO RETA\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"camiseta\":\"10\",\"Capitan\":\"(C)\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"camiseta\":\"33\",\"Capitan\":\"\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"51281\",\"Nombre\":\"JUSTINIANO MOLINA\",\"camiseta\":\"34\",\"Capitan\":\"\"},{\"carne\":\"51243\",\"Nombre\":\"TOMAS BLANCO\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"54763\",\"Nombre\":\"JUAN BAUTISTA CROSA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"camiseta\":\"9\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"camiseta\":\"20\",\"Capitan\":\"(C)\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"63400\",\"Nombre\":\"RODRIGO ALFONSO SORIA\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"66044\",\"Nombre\":\"FAUSTO VELAZQUEZ\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"65898\",\"Nombre\":\"EMILIANO VERDI\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"63404\",\"Nombre\":\"PEDRO NICOLAS PEYRE\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"66008\",\"Nombre\":\"RODOLFO STEWART SILVA\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"65912\",\"Nombre\":\"SERGIO RIVERO\",\"camiseta\":\"6\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"53759\",\"Nombre\":\"SIMON TERRA\",\"camiseta\":\"1\",\"Capitan\":\"(C)\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"65898\",\"Nombre\":\"EMILIANO VERDI\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"66044\",\"Nombre\":\"FAUSTO VELAZQUEZ\",\"camiseta\":\"51\",\"Capitan\":\"\"},{\"carne\":\"65912\",\"Nombre\":\"SERGIO RIVERO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"camiseta\":\"44\",\"Capitan\":\"\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"66008\",\"Nombre\":\"RODOLFO STEWART SILVA\",\"camiseta\":\"4\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60263\",\"Nombre\":\"CRISTHIAN DARIO SAAVEDRA\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"29318\",\"Nombre\":\"VITTORIO CALVETTI\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"camiseta\":\"19\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"65905\",\"Nombre\":\"NAHUEL ALVEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"camiseta\":\"99\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"51\",\"Capitan\":\"\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"47253\",\"Nombre\":\"JULIAN FLECHNER\",\"camiseta\":\"9\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60263\",\"Nombre\":\"CRISTHIAN DARIO SAAVEDRA\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"camiseta\":\"20\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65906\",\"Nombre\":\"GABRIEL GOMEZ\",\"camiseta\":\"25\",\"Capitan\":\"(C)\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"55\",\"Capitan\":\"\"},{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"camiseta\":\"99\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"65905\",\"Nombre\":\"NAHUEL ALVEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"1\",\"Capitan\":\"(C)\"},{\"carne\":\"49849\",\"Nombre\":\"MARCOS MORAN\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"50929\",\"Nombre\":\"JUAN MANUEL CASELLA\",\"camiseta\":\"42\",\"Capitan\":\"\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"camiseta\":\"22\",\"Capitan\":\"\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"28\",\"Capitan\":\"\"},{\"carne\":\"27399\",\"Nombre\":\"JOAQUIN PASQUET\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"56604\",\"Nombre\":\"JOAQUIN LUPANO\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"48685\",\"Nombre\":\"MAURICIO IHARA\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"96\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"88\",\"Capitan\":\"\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"54993\",\"Nombre\":\"MARTIN CASELLA\",\"camiseta\":\"32\",\"Capitan\":\"\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"camiseta\":\"66\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"51\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Locatario",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49849\",\"Nombre\":\"MARCOS MORAN\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"48685\",\"Nombre\":\"MAURICIO IHARA\",\"camiseta\":\"80\",\"Capitan\":\"\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"camiseta\":\"11\",\"Capitan\":\"(C)\"},{\"carne\":\"50929\",\"Nombre\":\"JUAN MANUEL CASELLA\",\"camiseta\":\"42\",\"Capitan\":\"\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"camiseta\":\"66\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"89\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"77\",\"Capitan\":\"\"},{\"carne\":\"27399\",\"Nombre\":\"JOAQUIN PASQUET\",\"camiseta\":\"21\",\"Capitan\":\"\"},{\"carne\":\"54751\",\"Nombre\":\"LUCA ODDONE\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"28\",\"Capitan\":\"\"},{\"carne\":\"54993\",\"Nombre\":\"MARTIN CASELLA\",\"camiseta\":\"32\",\"Capitan\":\"\"},{\"carne\":\"17146\",\"Nombre\":\"ANDRES ISMAEL ERRO\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"41\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "19906"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"21693\",\"Nombre\":\"DIEGO MARTIN TOMMASINO\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"24985\",\"Nombre\":\"BERNARDO RAFAEL PALAUS\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"19087\",\"Nombre\":\"AGUSTIN MATTOS\",\"camiseta\":\"11\",\"Capitan\":\"(C)\"},{\"carne\":\"19362\",\"Nombre\":\"RAFAEL ELIAS HERNANDEZ\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"21775\",\"Nombre\":\"FEDERICO FRADL\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"31024\",\"Nombre\":\"AGUSTIN MESA\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"26174\",\"Nombre\":\"GASTON FREIGEDO\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"21561\",\"Nombre\":\"ARTURO FEDERICO ZAPPINO\",\"camiseta\":\"15\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "24293"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"33289\",\"Nombre\":\"RENZO BADARACCO\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"28833\",\"Nombre\":\"DIEGO PARENTELLI\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"24044\",\"Nombre\":\"FABRIZIO RENZO MUSITELLI\",\"camiseta\":\"0\",\"Capitan\":\"\"},{\"carne\":\"28276\",\"Nombre\":\"DIEGO MARTIN GUTIERREZ\",\"camiseta\":\"1\",\"Capitan\":\"(C)\"},{\"carne\":\"34399\",\"Nombre\":\"GUILLERMO KUTYAS\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"24767\",\"Nombre\":\"MATHIAS ROMBYS\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"28198\",\"Nombre\":\"MATIAS ANDRES CAGIAO\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"25089\",\"Nombre\":\"MAXIMILIANO SILVERA\",\"camiseta\":\"5\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "55623"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"28514\",\"Nombre\":\"PABLO NICOLAS FERNANDEZ\",\"camiseta\":\"23\",\"Capitan\":\"\"},{\"carne\":\"38027\",\"Nombre\":\"SEBASTIAN ODDONE\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"33289\",\"Nombre\":\"RENZO BADARACCO\",\"camiseta\":\"45\",\"Capitan\":\"\"},{\"carne\":\"28715\",\"Nombre\":\"GUILLERMO SPALVIER\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"25089\",\"Nombre\":\"MAXIMILIANO SILVERA\",\"camiseta\":\"12\",\"Capitan\":\"(C)\"},{\"carne\":\"33288\",\"Nombre\":\"RODRIGO GUSTAVO FERNANDEZ\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"21301\",\"Nombre\":\"ANDRES BRUM\",\"camiseta\":\"0\",\"Capitan\":\"\"},{\"carne\":\"17908\",\"Nombre\":\"JESUS SOSA\",\"camiseta\":\"13\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "92923"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49849\",\"Nombre\":\"MARCOS MORAN\",\"camiseta\":\"12\",\"Capitan\":\"(C)\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"21\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"97\",\"Capitan\":\"\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"41\",\"Capitan\":\"\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"camiseta\":\"66\",\"Capitan\":\"\"},{\"carne\":\"54751\",\"Nombre\":\"LUCA ODDONE\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"camiseta\":\"22\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93115"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65956\",\"Nombre\":\"DIEGO ANTRANIK CALATZIAN\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"65955\",\"Nombre\":\"JORGE MARCEL KINOSIAN\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"65957\",\"Nombre\":\"SEBASTIAN OVSIENCOV\",\"camiseta\":\"40\",\"Capitan\":\"\"},{\"carne\":\"56696\",\"Nombre\":\"AGUSTIN GUEREQUIZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"65954\",\"Nombre\":\"ARTIN KEMANIAN\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"camiseta\":\"8\",\"Capitan\":\"(C)\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"43406\",\"Nombre\":\"AGUSTIN ORREGO\",\"camiseta\":\"5\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93117"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"10\",\"Capitan\":\"(C)\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"63634\",\"Nombre\":\"EITAN PALLAS\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"65905\",\"Nombre\":\"NAHUEL ALVEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"65910\",\"Nombre\":\"FACUNDO EMMANUEL BENITEZ\",\"camiseta\":\"16\",\"Capitan\":\"\"},{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"61274\",\"Nombre\":\"DAVID ALEJANDRO ESCOBAR\",\"camiseta\":\"69\",\"Capitan\":\"\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"51\",\"Capitan\":\"\"},{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"camiseta\":\"99\",\"Capitan\":\"\"},{\"carne\":\"65906\",\"Nombre\":\"GABRIEL GOMEZ\",\"camiseta\":\"25\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"47253\",\"Nombre\":\"JULIAN FLECHNER\",\"camiseta\":\"9\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93190"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"47216\",\"Nombre\":\"FEDERICO AMARAL\",\"camiseta\":\"8\",\"Capitan\":\"(C)\"},{\"carne\":\"63404\",\"Nombre\":\"PEDRO NICOLAS PEYRE\",\"camiseta\":\"15\",\"Capitan\":\"\"},{\"carne\":\"65898\",\"Nombre\":\"EMILIANO VERDI\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"53759\",\"Nombre\":\"SIMON TERRA\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"65912\",\"Nombre\":\"SERGIO RIVERO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"63400\",\"Nombre\":\"RODRIGO ALFONSO SORIA\",\"camiseta\":\"14\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93191"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60263\",\"Nombre\":\"CRISTHIAN DARIO SAAVEDRA\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"59235\",\"Nombre\":\"AGUSTIN COSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"34330\",\"Nombre\":\"FRANCISCO JULIAN BOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"65902\",\"Nombre\":\"FABRIZIO DONATO FERRANTY\",\"camiseta\":\"15\",\"Capitan\":\"\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"camiseta\":\"18\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93443"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"51243\",\"Nombre\":\"TOMAS BLANCO\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"54763\",\"Nombre\":\"JUAN BAUTISTA CROSA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"63309\",\"Nombre\":\"TOMAS EZEQUIEL PIRIZ\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"62727\",\"Nombre\":\"CARLOS OCTAVIO CORREA\",\"camiseta\":\"35\",\"Capitan\":\"\"},{\"carne\":\"52510\",\"Nombre\":\"EMILIO RETA\",\"camiseta\":\"91\",\"Capitan\":\"\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"camiseta\":\"10\",\"Capitan\":\"(C)\"},{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"camiseta\":\"33\",\"Capitan\":\"\"},{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"camiseta\":\"9\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93444"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"camiseta\":\"47\",\"Capitan\":\"\"},{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"45571\",\"Nombre\":\"JOSE MARIA NU\\u00d0EZ\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"70\",\"Capitan\":\"\"},{\"carne\":\"47253\",\"Nombre\":\"JULIAN FLECHNER\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"61274\",\"Nombre\":\"DAVID ALEJANDRO ESCOBAR\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"51\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"65910\",\"Nombre\":\"FACUNDO EMMANUEL BENITEZ\",\"camiseta\":\"16\",\"Capitan\":\"\"},{\"carne\":\"65905\",\"Nombre\":\"NAHUEL ALVEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"63634\",\"Nombre\":\"EITAN PALLAS\",\"camiseta\":\"99\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93447"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"camiseta\":\"22\",\"Capitan\":\"(C)\"},{\"carne\":\"54993\",\"Nombre\":\"MARTIN CASELLA\",\"camiseta\":\"32\",\"Capitan\":\"\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"49849\",\"Nombre\":\"MARCOS MORAN\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"56604\",\"Nombre\":\"JOAQUIN LUPANO\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"89\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"97\",\"Capitan\":\"\"},{\"carne\":\"54751\",\"Nombre\":\"LUCA ODDONE\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"55191\",\"Nombre\":\"FEDERICO SAINTAGNE\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"46\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93448"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65956\",\"Nombre\":\"DIEGO ANTRANIK CALATZIAN\",\"camiseta\":\"2\",\"Capitan\":\"(C)\"},{\"carne\":\"65957\",\"Nombre\":\"SEBASTIAN OVSIENCOV\",\"camiseta\":\"40\",\"Capitan\":\"\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"65955\",\"Nombre\":\"JORGE MARCEL KINOSIAN\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"43406\",\"Nombre\":\"AGUSTIN ORREGO\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"65960\",\"Nombre\":\"PABLO DAHEL GONALEZ\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"56696\",\"Nombre\":\"AGUSTIN GUEREQUIZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"65954\",\"Nombre\":\"ARTIN KEMANIAN\",\"camiseta\":\"5\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93449"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60263\",\"Nombre\":\"CRISTHIAN DARIO SAAVEDRA\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"47453\",\"Nombre\":\"FEDERICO IZA\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"53841\",\"Nombre\":\"EZEQUIEL ANDRES ARRAMBIDE\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"42765\",\"Nombre\":\"GERMAN FERNANDEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"27328\",\"Nombre\":\"ANGEL FEDERICO BELLO\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"34329\",\"Nombre\":\"MARTIN DELBONO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"59235\",\"Nombre\":\"AGUSTIN COSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"44431\",\"Nombre\":\"RODRIGO JULIAN LAULHE\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"58285\",\"Nombre\":\"RODRIGO BROTONS\",\"camiseta\":\"97\",\"Capitan\":\"\"},{\"carne\":\"29319\",\"Nombre\":\"DAMIAN BAPTISTA\",\"camiseta\":\"11\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93725"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"51243\",\"Nombre\":\"TOMAS BLANCO\",\"camiseta\":\"1\",\"Capitan\":\"(C)\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"54763\",\"Nombre\":\"JUAN BAUTISTA CROSA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"52510\",\"Nombre\":\"EMILIO RETA\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"camiseta\":\"33\",\"Capitan\":\"\"},{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"camiseta\":\"17\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93726"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"66008\",\"Nombre\":\"RODOLFO STEWART SILVA\",\"camiseta\":\"16\",\"Capitan\":\"\"},{\"carne\":\"65899\",\"Nombre\":\"ALEX MAXIMILINO DOS SANTOS\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"63404\",\"Nombre\":\"PEDRO NICOLAS PEYRE\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"47216\",\"Nombre\":\"FEDERICO AMARAL\",\"camiseta\":\"8\",\"Capitan\":\"(C)\"},{\"carne\":\"52148\",\"Nombre\":\"AGUSTIN CORBO\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"camiseta\":\"15\",\"Capitan\":\"\"},{\"carne\":\"65898\",\"Nombre\":\"EMILIANO VERDI\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"camiseta\":\"12\",\"Capitan\":\"\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"camiseta\":\"18\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93739"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"camiseta\":\"55\",\"Capitan\":\"(C)\"},{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"47253\",\"Nombre\":\"JULIAN FLECHNER\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"61274\",\"Nombre\":\"DAVID ALEJANDRO ESCOBAR\",\"camiseta\":\"99\",\"Capitan\":\"\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"91\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"65910\",\"Nombre\":\"FACUNDO EMMANUEL BENITEZ\",\"camiseta\":\"16\",\"Capitan\":\"\"},{\"carne\":\"65905\",\"Nombre\":\"NAHUEL ALVEZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"61848\",\"Nombre\":\"EMILIANO SOUZA\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"45571\",\"Nombre\":\"JOSE MARIA NU\\u00d0EZ\",\"camiseta\":\"19\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93753"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49849\",\"Nombre\":\"MARCOS MORAN\",\"camiseta\":\"13\",\"Capitan\":\"\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"91\",\"Capitan\":\"\"},{\"carne\":\"54993\",\"Nombre\":\"MARTIN CASELLA\",\"camiseta\":\"32\",\"Capitan\":\"\"},{\"carne\":\"48685\",\"Nombre\":\"MAURICIO IHARA\",\"camiseta\":\"10\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"97\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"89\",\"Capitan\":\"\"},{\"carne\":\"27399\",\"Nombre\":\"JOAQUIN PASQUET\",\"camiseta\":\"21\",\"Capitan\":\"\"},{\"carne\":\"54751\",\"Nombre\":\"LUCA ODDONE\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"56604\",\"Nombre\":\"JOAQUIN LUPANO\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"camiseta\":\"22\",\"Capitan\":\"(C)\"},{\"carne\":\"55191\",\"Nombre\":\"FEDERICO SAINTAGNE\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"46\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "93760"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"65957\",\"Nombre\":\"SEBASTIAN OVSIENCOV\",\"camiseta\":\"40\",\"Capitan\":\"(C)\"},{\"carne\":\"56696\",\"Nombre\":\"AGUSTIN GUEREQUIZ\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"43406\",\"Nombre\":\"AGUSTIN ORREGO\",\"camiseta\":\"11\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "94240"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"43406\",\"Nombre\":\"AGUSTIN ORREGO\",\"camiseta\":\"30\",\"Capitan\":\"\"},{\"carne\":\"65957\",\"Nombre\":\"SEBASTIAN OVSIENCOV\",\"camiseta\":\"23\",\"Capitan\":\"(C)\"},{\"carne\":\"56696\",\"Nombre\":\"AGUSTIN GUEREQUIZ\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"camiseta\":\"22\",\"Capitan\":\"\"},{\"carne\":\"40856\",\"Nombre\":\"PABLO FABRIZZIO TRICANICO\",\"camiseta\":\"6\",\"Capitan\":\"\"},{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"65960\",\"Nombre\":\"PABLO DAHEL GONALEZ\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"65954\",\"Nombre\":\"ARTIN KEMANIAN\",\"camiseta\":\"15\",\"Capitan\":\"\"},{\"carne\":\"65956\",\"Nombre\":\"DIEGO ANTRANIK CALATZIAN\",\"camiseta\":\"2\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "94241"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"63336\",\"Nombre\":\"EZEQUIEL CARBAJAL\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"camiseta\":\"10\",\"Capitan\":\"(C)\"},{\"carne\":\"52923\",\"Nombre\":\"TOMAS FRAGA\",\"camiseta\":\"33\",\"Capitan\":\"\"},{\"carne\":\"55787\",\"Nombre\":\"JUAN MANUEL PAPA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"51281\",\"Nombre\":\"JUSTINIANO MOLINA\",\"camiseta\":\"34\",\"Capitan\":\"\"},{\"carne\":\"51243\",\"Nombre\":\"TOMAS BLANCO\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"52510\",\"Nombre\":\"EMILIO RETA\",\"camiseta\":\"11\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "94305"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"66044\",\"Nombre\":\"FAUSTO VELAZQUEZ\",\"camiseta\":\"15\",\"Capitan\":\"(C)\"},{\"carne\":\"66008\",\"Nombre\":\"RODOLFO STEWART SILVA\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"63403\",\"Nombre\":\"JOAQUIN CAMPOS\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"63399\",\"Nombre\":\"HERNAN ACOSTA\",\"camiseta\":\"20\",\"Capitan\":\"\"},{\"carne\":\"63401\",\"Nombre\":\"JUAN MARTIN PEYRE\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"52148\",\"Nombre\":\"AGUSTIN CORBO\",\"camiseta\":\"18\",\"Capitan\":\"\"},{\"carne\":\"63400\",\"Nombre\":\"RODRIGO ALFONSO SORIA\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"58942\",\"Nombre\":\"SEBASTIAN REDIN\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"65898\",\"Nombre\":\"EMILIANO VERDI\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"63402\",\"Nombre\":\"CAMILO KOCHEN\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"65897\",\"Nombre\":\"GONZALO ROMERO\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"63404\",\"Nombre\":\"PEDRO NICOLAS PEYRE\",\"camiseta\":\"13\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "94306"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"49156\",\"Nombre\":\"MATHIAS SOARES DE LIMA\",\"camiseta\":\"28\",\"Capitan\":\"\"},{\"carne\":\"55887\",\"Nombre\":\"ANDRES VIDAL\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"54993\",\"Nombre\":\"MARTIN CASELLA\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"49080\",\"Nombre\":\"IGNACIO MOUGAN\",\"camiseta\":\"4\",\"Capitan\":\"\"},{\"carne\":\"55187\",\"Nombre\":\"IGNACIO ANDRES ALVAREZ\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"55355\",\"Nombre\":\"FACUNDO BELTRAN\",\"camiseta\":\"5\",\"Capitan\":\"\"},{\"carne\":\"50128\",\"Nombre\":\"JUAN ANDRES GIL\",\"camiseta\":\"55\",\"Capitan\":\"(C)\"},{\"carne\":\"56604\",\"Nombre\":\"JOAQUIN LUPANO\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"50929\",\"Nombre\":\"JUAN MANUEL CASELLA\",\"camiseta\":\"42\",\"Capitan\":\"\"},{\"carne\":\"56600\",\"Nombre\":\"SANTIAGO REYES\",\"camiseta\":\"1\",\"Capitan\":\"\"},{\"carne\":\"17146\",\"Nombre\":\"ANDRES ISMAEL ERRO\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"54749\",\"Nombre\":\"MARKO HEINZ SCHWARZ\",\"camiseta\":\"41\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "94307"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65953\",\"Nombre\":\"ESTEBAN KEYMETLIAN\",\"camiseta\":\"8\",\"Capitan\":\"(C)\"},{\"carne\":\"41889\",\"Nombre\":\"JUAN MANUEL CABEZAS\",\"camiseta\":\"19\",\"Capitan\":\"\"},{\"carne\":\"65960\",\"Nombre\":\"PABLO DAHEL GONALEZ\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"65954\",\"Nombre\":\"ARTIN KEMANIAN\",\"camiseta\":\"15\",\"Capitan\":\"\"},{\"carne\":\"65956\",\"Nombre\":\"DIEGO ANTRANIK CALATZIAN\",\"camiseta\":\"2\",\"Capitan\":\"\"},{\"carne\":\"43406\",\"Nombre\":\"AGUSTIN ORREGO\",\"camiseta\":\"30\",\"Capitan\":\"\"},{\"carne\":\"65957\",\"Nombre\":\"SEBASTIAN OVSIENCOV\",\"camiseta\":\"23\",\"Capitan\":\"\"},{\"carne\":\"65961\",\"Nombre\":\"NICOLAS GARCIA\",\"camiseta\":\"22\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "94308"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"60672\",\"Nombre\":\"AUGUSTO DANIEL ALVAREZ\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"52646\",\"Nombre\":\"JUAN MARTIN BONFIGLIO\",\"camiseta\":\"17\",\"Capitan\":\"\"},{\"carne\":\"63475\",\"Nombre\":\"JUAN IBARRA\",\"camiseta\":\"38\",\"Capitan\":\"\"},{\"carne\":\"52510\",\"Nombre\":\"EMILIO RETA\",\"camiseta\":\"11\",\"Capitan\":\"\"},{\"carne\":\"63308\",\"Nombre\":\"FELIPE MONAGAS\",\"camiseta\":\"3\",\"Capitan\":\"\"},{\"carne\":\"51243\",\"Nombre\":\"TOMAS BLANCO\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"54915\",\"Nombre\":\"MARTIN HORACIO MONAGAS\",\"camiseta\":\"10\",\"Capitan\":\"(C)\"},{\"carne\":\"54190\",\"Nombre\":\"MAXIMO JOSE SCHILDE\",\"camiseta\":\"39\",\"Capitan\":\"\"},{\"carne\":\"63309\",\"Nombre\":\"TOMAS EZEQUIEL PIRIZ\",\"camiseta\":\"6\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "detallefechas",
+  "action": "Titulares Visitante",
+  "params": {
+   "id": "94314"
+  },
+  "status": 200,
+  "body": "[{\"carne\":\"65909\",\"Nombre\":\"DAMIAN NICOLAS MIGUEZ\",\"camiseta\":\"8\",\"Capitan\":\"\"},{\"carne\":\"47253\",\"Nombre\":\"JULIAN FLECHNER\",\"camiseta\":\"9\",\"Capitan\":\"\"},{\"carne\":\"65907\",\"Nombre\":\"MATIAS MARTINS\",\"camiseta\":\"0\",\"Capitan\":\"\"},{\"carne\":\"49116\",\"Nombre\":\"ALFREDO ALFREDO BACCI\",\"camiseta\":\"49\",\"Capitan\":\"\"},{\"carne\":\"65008\",\"Nombre\":\"JUAN DIEGO JACQUES\",\"camiseta\":\"7\",\"Capitan\":\"\"},{\"carne\":\"51438\",\"Nombre\":\"FELIPE AMIASSORHO\",\"camiseta\":\"14\",\"Capitan\":\"\"},{\"carne\":\"43957\",\"Nombre\":\"DIEGO MARTIN MAGALLANES\",\"camiseta\":\"5\",\"Capitan\":\"(C)\"},{\"carne\":\"63901\",\"Nombre\":\"LAUTARO TARANTO\",\"camiseta\":\"12\",\"Capitan\":\"\"}]"
+ },
+ {
+  "endpoint": "posiciones_historicas",
+  "action": "cargarPosiciones",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA - SERIE 2"
+  },
+  "status": 200,
+  "body": "[{\"Institucion\":\"ALEMAN UNIVERSITARIO\",\"PJ\":\"2\",\"PG\":\"2\",\"PE\":\"0\",\"PP\":\"0\",\"GF\":\"11\",\"GC\":\"7\",\"Puntos\":\"6\"},{\"Institucion\":\"UNIVERSIDAD ORT\",\"PJ\":\"2\",\"PG\":\"1\",\"PE\":\"0\",\"PP\":\"1\",\"GF\":\"12\",\"GC\":\"8\",\"Puntos\":\"3\"},{\"Institucion\":\"UNIVERSIDAD DE MONTEVIDEO\",\"PJ\":\"2\",\"PG\":\"0\",\"PE\":\"0\",\"PP\":\"2\",\"GF\":\"8\",\"GC\":\"16\",\"Puntos\":\"0\"}]"
+ },
+ {
+  "endpoint": "posiciones_historicas",
+  "action": "cargarPosiciones",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA SERIE 1"
+  },
+  "status": 200,
+  "body": "[{\"Institucion\":\"HEBRAICA UNIVERSITARIO\",\"PJ\":\"2\",\"PG\":\"2\",\"PE\":\"0\",\"PP\":\"0\",\"GF\":\"10\",\"GC\":\"4\",\"Puntos\":\"6\"},{\"Institucion\":\"BOHEMIOS FS\",\"PJ\":\"2\",\"PG\":\"1\",\"PE\":\"0\",\"PP\":\"1\",\"GF\":\"15\",\"GC\":\"11\",\"Puntos\":\"3\"},{\"Institucion\":\"CLUB UGAB\",\"PJ\":\"2\",\"PG\":\"0\",\"PE\":\"0\",\"PP\":\"2\",\"GF\":\"6\",\"GC\":\"16\",\"Puntos\":\"0\"}]"
+ },
+ {
+  "endpoint": "posiciones_historicas",
+  "action": "cargarPosiciones",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "APERTURA"
+  },
+  "status": 200,
+  "body": "[{\"Institucion\":\"BOHEMIOS FS\",\"PJ\":\"5\",\"PG\":\"3\",\"PE\":\"2\",\"PP\":\"0\",\"GF\":\"24\",\"GC\":\"16\",\"Puntos\":\"11\"},{\"Institucion\":\"UNIVERSIDAD ORT\",\"PJ\":\"5\",\"PG\":\"3\",\"PE\":\"1\",\"PP\":\"1\",\"GF\":\"29\",\"GC\":\"13\",\"Puntos\":\"10\"},{\"Institucion\":\"ALEMAN UNIVERSITARIO\",\"PJ\":\"5\",\"PG\":\"2\",\"PE\":\"1\",\"PP\":\"2\",\"GF\":\"21\",\"GC\":\"21\",\"Puntos\":\"7\"},{\"Institucion\":\"HEBRAICA UNIVERSITARIO\",\"PJ\":\"5\",\"PG\":\"2\",\"PE\":\"1\",\"PP\":\"2\",\"GF\":\"13\",\"GC\":\"20\",\"Puntos\":\"7\"},{\"Institucion\":\"UNIVERSIDAD DE MONTEVIDEO\",\"PJ\":\"5\",\"PG\":\"1\",\"PE\":\"2\",\"PP\":\"2\",\"GF\":\"14\",\"GC\":\"17\",\"Puntos\":\"5\"},{\"Institucion\":\"CLUB UGAB\",\"PJ\":\"5\",\"PG\":\"0\",\"PE\":\"1\",\"PP\":\"4\",\"GF\":\"11\",\"GC\":\"25\",\"Puntos\":\"1\"}]"
+ },
+ {
+  "endpoint": "posiciones_historicas",
+  "action": "cargarPosiciones",
+  "params": {
+   "temporada": "112",
+   "deporte": "FUTSAL",
+   "torneo": "FUTSAL",
+   "serie": "FINAL DEL APERTURA"
+  },
+  "status": 200,
+  "body": "[{\"Institucion\":\"ALEMAN UNIVERSITARIO\",\"PJ\":\"1\",\"PG\":\"1\",\"PE\":\"0\",\"PP\":\"0\",\"GF\":\"2\",\"GC\":\"1\",\"Puntos\":\"3\"},{\"Institucion\":\"HEBRAICA UNIVERSITARIO\",\"PJ\":\"1\",\"PG\":\"0\",\"PE\":\"0\",\"PP\":\"1\",\"GF\":\"1\",\"GC\":\"2\",\"Puntos\":\"0\"}]"
+ },
+ {
+  "endpoint": "posiciones_historicas",
+  "action": "cargarTemporadas",
+  "params": {},
+  "status": 200,
+  "body": "[{\"codigo\":\"113\"},{\"codigo\":\"112\"},{\"codigo\":\"111\"},{\"codigo\":\"110\"},{\"codigo\":\"109\"},{\"codigo\":\"108\"},{\"codigo\":\"107\"},{\"codigo\":\"106\"},{\"codigo\":\"105\"},{\"codigo\":\"104\"},{\"codigo\":\"103\"},{\"codigo\":\"102\"},{\"codigo\":\"101\"},{\"codigo\":\"100\"},{\"codigo\":\"99\"},{\"codigo\":\"98\"},{\"codigo\":\"97\"},{\"codigo\":\"96\"},{\"codigo\":\"95\"},{\"codigo\":\"94\"},{\"codigo\":\"93\"},{\"codigo\":\"92\"},{\"codigo\":\"91\"}]"
+ }
+]

@@ -1,0 +1,82 @@
+# Production stack on the VPS (design D12). Run from the repository root:
+#   docker compose -f deploy/docker-compose.yml --env-file deploy/.env up -d
+name: ligapedia
+
+x-app-env: &app-env
+  TZ: America/Montevideo
+
+services:
+  db:
+    image: postgres:18
+    restart: unless-stopped
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in deploy/.env}
+      LIGAPEDIA_INGEST_PASSWORD: ${LIGAPEDIA_INGEST_PASSWORD:?set LIGAPEDIA_INGEST_PASSWORD}
+      LIGAPEDIA_API_PASSWORD: ${LIGAPEDIA_API_PASSWORD:?set LIGAPEDIA_API_PASSWORD}
+    command: ['postgres', '-c', 'shared_buffers=512MB', '-c', 'effective_cache_size=1GB', '-c', 'max_connections=60', '-c', 'work_mem=16MB']
+    volumes:
+      - pgdata:/var/lib/postgresql
+      - ./db-init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U postgres -d ligapedia']
+      interval: 5s
+      timeout: 3s
+      retries: 30
+    # Never published on the host network.
+
+  api:
+    image: ligapedia-app:${LIGAPEDIA_TAG:-latest}
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.app
+    restart: unless-stopped
+    command: ['node', '/app/api/dist/server.js']
+    environment:
+      <<: *app-env
+      DATABASE_URL_API: ${DATABASE_URL_API:-postgres://ligapedia_api:${LIGAPEDIA_API_PASSWORD}@db:5432/ligapedia}
+      PORT: '3000'
+      LOG_LEVEL: info
+    depends_on:
+      db:
+        condition: service_healthy
+
+  web:
+    image: ligapedia-web:${LIGAPEDIA_TAG:-latest}
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile.web
+    restart: unless-stopped
+    environment:
+      LIGAPEDIA_DOMAIN: ${LIGAPEDIA_DOMAIN:-localhost}
+    ports:
+      - '80:80'
+      - '443:443'
+      - '443:443/udp'
+    volumes:
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - api
+
+  # One-shot jobs: docker compose -f deploy/docker-compose.yml --profile jobs run --rm ingest <command>
+  ingest:
+    image: ligapedia-app:${LIGAPEDIA_TAG:-latest}
+    profiles: ['jobs']
+    entrypoint: ['node', '/app/ingest/dist/cli.js']
+    environment:
+      <<: *app-env
+      DATABASE_URL_INGEST: ${DATABASE_URL_INGEST:-postgres://ligapedia_ingest:${LIGAPEDIA_INGEST_PASSWORD}@db:5432/ligapedia}
+      LIGAPEDIA_CONTACT: ${LIGAPEDIA_CONTACT:-}
+      LIGAPEDIA_DOMAIN: ${LIGAPEDIA_DOMAIN:-localhost}
+      INGEST_CONCURRENCY: ${INGEST_CONCURRENCY:-4}
+    volumes:
+      # Curated overrides are edited on the host and applied with `ingest rebuild` (no image rebuild).
+      - ../data/overrides:/app/overrides:ro
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:
+  caddy_data:
+  caddy_config:

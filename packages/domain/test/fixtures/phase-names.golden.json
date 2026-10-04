@@ -1,0 +1,1676 @@
+[
+ {
+  "season": 93,
+  "torneo": "FUTBOL SALA",
+  "serie": "FUTSAL 2006 APERTURA",
+  "teams": 10,
+  "matches": 44,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 93,
+  "torneo": "FUTBOL SALA",
+  "serie": "FUTSAL 2006 CLAUSURA",
+  "teams": 10,
+  "matches": 43,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 94,
+  "torneo": "FUTBOL SALA",
+  "serie": "Divisional \" A \"",
+  "teams": 8,
+  "matches": 52,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 94,
+  "torneo": "FUTBOL SALA",
+  "serie": "Divisional A",
+  "teams": 8,
+  "matches": 14,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 95,
+  "torneo": "MAYORES",
+  "serie": "Futsal Rueda 1",
+  "teams": 9,
+  "matches": 35,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 95,
+  "torneo": "MAYORES",
+  "serie": "Futsal Rueda 2",
+  "teams": 10,
+  "matches": 38,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "Futbol Sala 1ª Rueda",
+  "teams": 11,
+  "matches": 55,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "CLAUSURA GRUPO 1",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "CLAUSURA GRUPO 2",
+  "teams": 6,
+  "matches": 15,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "CLAUSURA GR.1 R.2",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "REPECHAJE",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "Finales Oro",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "Finales Plata",
+  "teams": 5,
+  "matches": 10,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 96,
+  "torneo": "MAYORES",
+  "serie": "Final Oro",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Torneo Futsal 2010",
+  "teams": 10,
+  "matches": 45,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Futsal Clausura Grupo 1",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Futsal Clausura Grupo2",
+  "teams": 6,
+  "matches": 15,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Futsal Cla. Gru1 Rueda 2",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Futsal Repechaje",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Futsal Copa de Oro",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": null
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Futsal Copa de Plata",
+  "teams": 6,
+  "matches": 15,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 97,
+  "torneo": "MAYORES",
+  "serie": "Futsal Finales",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 98,
+  "torneo": "MAYORES",
+  "serie": "TORNEO APERTURA",
+  "teams": 8,
+  "matches": 56,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 98,
+  "torneo": "MAYORES",
+  "serie": "CUARTOS DE FINAL",
+  "teams": 8,
+  "matches": 8,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 98,
+  "torneo": "MAYORES",
+  "serie": "SEMIFINALES",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 98,
+  "torneo": "MAYORES",
+  "serie": "FINALES",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 98,
+  "torneo": "Mayores Femenino",
+  "serie": "1ª RUEDA CLASIFICATORIA",
+  "teams": 7,
+  "matches": 21,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 98,
+  "torneo": "Mayores Femenino",
+  "serie": "Copa de Oro Semifinales",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 98,
+  "torneo": "Mayores Femenino",
+  "serie": "Copa de Plata",
+  "teams": 3,
+  "matches": 3,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 98,
+  "torneo": "Mayores Femenino",
+  "serie": "Finales Copa de Oro",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 99,
+  "torneo": "MAYORES",
+  "serie": "Copa 1",
+  "teams": 4,
+  "matches": 12,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 99,
+  "torneo": "FUTBOL SALA",
+  "serie": "Copa 2",
+  "teams": 5,
+  "matches": 10,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 99,
+  "torneo": "FUTBOL SALA",
+  "serie": "FUTSAL MASCULINO RUEDA2",
+  "teams": 5,
+  "matches": 10,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "FUTSAL FEMENINO APERTURA",
+  "teams": 9,
+  "matches": 36,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "Clausura Grupo A",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "Clausura Grupo B",
+  "teams": 5,
+  "matches": 10,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "Repechaje",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE PLATA",
+  "teams": 5,
+  "matches": 10,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMIFINALES COPA DE ORO",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "FINALES",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 99,
+  "torneo": "Mayores Femenino",
+  "serie": "FUTSAL FEMENINO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 100,
+  "torneo": "MAYORES",
+  "serie": "FUTSAL MASCULINO RUEDA 1",
+  "teams": 5,
+  "matches": 10,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 100,
+  "torneo": "MAYORES",
+  "serie": "FUTBOL SALA MASC. RUEDA 2",
+  "teams": 5,
+  "matches": 9,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 100,
+  "torneo": "Mayores Femenino",
+  "serie": "FUTSAL FEMENINO APERTURA",
+  "teams": 10,
+  "matches": 45,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 100,
+  "torneo": "Mayores Femenino",
+  "serie": "CLAUSURA",
+  "teams": 10,
+  "matches": 45,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 100,
+  "torneo": "Mayores Femenino",
+  "serie": "FINAL ANUAL",
+  "teams": 2,
+  "matches": 2,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 101,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA",
+  "teams": 5,
+  "matches": 10,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 101,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 5,
+  "matches": 10,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 101,
+  "torneo": "FUTSAL",
+  "serie": "FINAL ANUAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 101,
+  "torneo": "Mayores Femenino",
+  "serie": "FUTSAL FEMENINO APERTURA",
+  "teams": 10,
+  "matches": 45,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 101,
+  "torneo": "Mayores Femenino",
+  "serie": "FUTSAL FEMENINO",
+  "teams": 10,
+  "matches": 45,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 101,
+  "torneo": "Mayores Femenino",
+  "serie": "FINAL ANUAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 102,
+  "torneo": "FUTSAL",
+  "serie": "1ª Rueda APERTURA ",
+  "teams": 6,
+  "matches": 15,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "FUTSAL",
+  "serie": "2ª Rueda APERTURA ",
+  "teams": 6,
+  "matches": 15,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "FUTSAL",
+  "serie": "FUTSAL COPA DE ORO",
+  "teams": 4,
+  "matches": 8,
+  "kind": "oro",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "FUTSAL",
+  "serie": "FUTSAL COPA DE PLATA",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "FUTSAL",
+  "serie": "FINAL ANUAL",
+  "teams": 4,
+  "matches": 3,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "APERTURA",
+  "teams": 8,
+  "matches": 28,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "CLAUSURA",
+  "teams": 8,
+  "matches": 28,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "CLAUSURA SERIE1",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "CLAUSURA SERIE2",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE ORO",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE PLATA",
+  "teams": 4,
+  "matches": 4,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMI Y FINAL CO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 102,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMI Y FINAL CP",
+  "teams": 4,
+  "matches": 3,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "RUEDA 2 APERTURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE PLATA",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE ORO",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": null
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "FINAL ORO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "3º Y 4º PUESTO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "third_place"
+ },
+ {
+  "season": 103,
+  "torneo": "FUTSAL",
+  "serie": "FINAL ANUAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "CLASIFICATORIO",
+  "teams": 8,
+  "matches": 56,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "CUARTOS DE FINAL",
+  "teams": 8,
+  "matches": 8,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMIS ORO ",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMIS PLATA",
+  "teams": 4,
+  "matches": 3,
+  "kind": "plata",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "FINAL ORO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "3º Y 4º PUESTO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "third_place"
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "FINAL ANUAL",
+  "teams": 2,
+  "matches": 2,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 103,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE PLATA",
+  "teams": 4,
+  "matches": 4,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 104,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA",
+  "teams": 5,
+  "matches": 10,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 104,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 5,
+  "matches": 10,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 104,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE ORO",
+  "teams": 4,
+  "matches": 6,
+  "kind": "oro",
+  "roleHint": null
+ },
+ {
+  "season": 104,
+  "torneo": "FUTSAL",
+  "serie": "FINAL ANUAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "CLASIFICATORIO",
+  "teams": 8,
+  "matches": 56,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "CUARTOS DE FINAL",
+  "teams": 8,
+  "matches": 8,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMIS ORO",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMIS PLATA",
+  "teams": 4,
+  "matches": 4,
+  "kind": "plata",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "FINAL ORO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "3º Y 4º PUESTO PLATA",
+  "teams": 2,
+  "matches": 1,
+  "kind": "plata",
+  "roleHint": "third_place"
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "3º Y 4º PUESTO ORO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "third_place"
+ },
+ {
+  "season": 104,
+  "torneo": "Mayores Femenino",
+  "serie": "FINAL PLATA",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 105,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA RUEDA 1",
+  "teams": 4,
+  "matches": 6,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 105,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA RUEDA 2",
+  "teams": 4,
+  "matches": 6,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 105,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 4,
+  "matches": 6,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 105,
+  "torneo": "FUTSAL",
+  "serie": "PLAY OFF SEMIS",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 105,
+  "torneo": "FUTSAL",
+  "serie": "FINALES ORO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 105,
+  "torneo": "FUTSAL",
+  "serie": "TERCER Y CUARTO PUESTO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "third_place"
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "CLASIFICATORIO 1a. RUEDA",
+  "teams": 8,
+  "matches": 28,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "CLASIFICATORIO 2a. RUEDA",
+  "teams": 8,
+  "matches": 28,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "PLAY OFF CUARTOS",
+  "teams": 8,
+  "matches": 8,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE ORO SEMIS",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE PLATA",
+  "teams": 4,
+  "matches": 5,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE ORO FINALES",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "TERCER Y CUARTO PUESTO",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "third_place"
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "COPA DE PLATA FINALES",
+  "teams": 2,
+  "matches": 1,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "TORNEO UNIVERSITARIO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "anual",
+  "roleHint": null
+ },
+ {
+  "season": 105,
+  "torneo": "Mayores Femenino",
+  "serie": "FINAL PLATA",
+  "teams": 2,
+  "matches": 1,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA",
+  "teams": 7,
+  "matches": 21,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 8,
+  "matches": 28,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE ORO SEMIS",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE PLATA SEMIS",
+  "teams": 4,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE ORO FINAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE PLATA FINAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "SERIE 2",
+  "teams": 3,
+  "matches": 2,
+  "kind": "otro",
+  "roleHint": null
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "SERIE 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "otro",
+  "roleHint": null
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "SEMIFINALES",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 106,
+  "torneo": "FUTSAL",
+  "serie": "FINAL FUTSAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 106,
+  "torneo": "Mayores Femenino",
+  "serie": "APERTURA RUEDA 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 106,
+  "torneo": "Mayores Femenino",
+  "serie": "APERTURA RUEDA 2",
+  "teams": 3,
+  "matches": 3,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 106,
+  "torneo": "Mayores Femenino",
+  "serie": "CLAUSURA",
+  "teams": 3,
+  "matches": 3,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 106,
+  "torneo": "Mayores Femenino",
+  "serie": "SEMIFINALES CLAUSURA",
+  "teams": 2,
+  "matches": 1,
+  "kind": "clausura",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 106,
+  "torneo": "Mayores Femenino",
+  "serie": "FINALES",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 107,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA",
+  "teams": 8,
+  "matches": 28,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 107,
+  "torneo": "FUTSAL",
+  "serie": "Clausura-Playoff-Cuartos",
+  "teams": 8,
+  "matches": 8,
+  "kind": "clausura",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 107,
+  "torneo": "FUTSAL",
+  "serie": "SEMIFINALES TITÚLO",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 107,
+  "torneo": "FUTSAL",
+  "serie": "SEMIFINALES COPA DE PLATA",
+  "teams": 4,
+  "matches": 4,
+  "kind": "plata",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 107,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA FINAL ORO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 107,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA FINAL PLATA",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 107,
+  "torneo": "FUTSAL",
+  "serie": "FINAL UNIVERSITARIO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 108,
+  "torneo": "FUTSAL",
+  "serie": "FUTSAL MASCULINO RUEDA 1",
+  "teams": 8,
+  "matches": 28,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 108,
+  "torneo": "FUTSAL",
+  "serie": "FUTSAL MASCULINO RUEDA 2",
+  "teams": 8,
+  "matches": 28,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 108,
+  "torneo": "FUTSAL",
+  "serie": "SEMIFINALES ORO",
+  "teams": 4,
+  "matches": 3,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 108,
+  "torneo": "FUTSAL",
+  "serie": "SEMIFINALES PLATA",
+  "teams": 4,
+  "matches": 4,
+  "kind": "plata",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 108,
+  "torneo": "FUTSAL",
+  "serie": "FINALES ORO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 108,
+  "torneo": "FUTSAL",
+  "serie": "FINALES PLATA",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 109,
+  "torneo": "FUTSAL",
+  "serie": "FÚTBOL SALA APERTURA",
+  "teams": 9,
+  "matches": 36,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 109,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 8,
+  "matches": 28,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 109,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE ORO",
+  "teams": 4,
+  "matches": 8,
+  "kind": "oro",
+  "roleHint": null
+ },
+ {
+  "season": 109,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE PLATA",
+  "teams": 4,
+  "matches": 8,
+  "kind": "plata",
+  "roleHint": null
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "Futbol Sala Apertura",
+  "teams": 6,
+  "matches": 15,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "Futbol Sala Serie 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "Futbol Sala Serie 2",
+  "teams": 3,
+  "matches": 3,
+  "kind": "liga",
+  "roleHint": null
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "FINAL APERTURA",
+  "teams": 2,
+  "matches": 1,
+  "kind": "apertura",
+  "roleHint": "final"
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "FUTBOL SALA CLAUSURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA SERIE 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA SERIE 2",
+  "teams": 3,
+  "matches": 3,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA FINAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "clausura",
+  "roleHint": "final"
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "PLAY IN",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "PLAY OFF - SEMIFINALES",
+  "teams": 4,
+  "matches": 3,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "COPA DE PLATA FINAL",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "FINALES",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 110,
+  "torneo": "FUTSAL",
+  "serie": "FINALES UNIVERSITARIO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "FUTSAL APERTURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA SERIE 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA SERIE 2",
+  "teams": 3,
+  "matches": 3,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "FINAL APERTURA",
+  "teams": 2,
+  "matches": 1,
+  "kind": "apertura",
+  "roleHint": "final"
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA SERIE 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA SERIE 2",
+  "teams": 3,
+  "matches": 3,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA FINAL",
+  "teams": 2,
+  "matches": 1,
+  "kind": "clausura",
+  "roleHint": "final"
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "PLAY IN",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "SEMIFINALES TITÚLO",
+  "teams": 4,
+  "matches": 3,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "FINAL PLATA",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "FINAL PLAY OFF",
+  "teams": 2,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 111,
+  "torneo": "FUTSAL",
+  "serie": "FINAL DEL UNIVERSITARIO",
+  "teams": 2,
+  "matches": 2,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA SERIE 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA - SERIE 2",
+  "teams": 3,
+  "matches": 3,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "FINAL DEL APERTURA",
+  "teams": 2,
+  "matches": 1,
+  "kind": "apertura",
+  "roleHint": "final"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA RUEDA",
+  "teams": 6,
+  "matches": 15,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA SERIE 1",
+  "teams": 3,
+  "matches": 3,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA SERIE 2",
+  "teams": 3,
+  "matches": 3,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "FINAL DEL CLAUSURA",
+  "teams": 2,
+  "matches": 1,
+  "kind": "clausura",
+  "roleHint": "final"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "PLAY IN ",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "SEMIFINALES",
+  "teams": 4,
+  "matches": 4,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "FINAL PLATA",
+  "teams": 2,
+  "matches": 2,
+  "kind": "plata",
+  "roleHint": "final"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "FINAL PLAY OFF",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "final"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "FINALES UNIVERSITARIO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 112,
+  "torneo": "FUTSAL",
+  "serie": "FINAL DEL UNIVERSITARIO",
+  "teams": 2,
+  "matches": 1,
+  "kind": "anual",
+  "roleHint": "final"
+ },
+ {
+  "season": 113,
+  "torneo": "FUTSAL",
+  "serie": "APERTURA",
+  "teams": 9,
+  "matches": 36,
+  "kind": "apertura",
+  "roleHint": null
+ },
+ {
+  "season": 113,
+  "torneo": "FUTSAL",
+  "serie": "CLAUSURA",
+  "teams": 9,
+  "matches": 36,
+  "kind": "clausura",
+  "roleHint": null
+ },
+ {
+  "season": 113,
+  "torneo": "FUTSAL",
+  "serie": "REPECHAJE",
+  "teams": 2,
+  "matches": 1,
+  "kind": "oro",
+  "roleHint": "knockout"
+ },
+ {
+  "season": 113,
+  "torneo": "FUTSAL",
+  "serie": "CUARTOS DE FINAL",
+  "teams": 4,
+  "matches": 2,
+  "kind": "oro",
+  "roleHint": "knockout"
+ }
+]

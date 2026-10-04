@@ -1,0 +1,27 @@
+# Local development database. Production uses deploy/docker-compose.yml.
+# Own project name so it never collides with the production stack's containers.
+name: ligapedia-dev
+
+services:
+  db:
+    image: postgres:18
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      LIGAPEDIA_INGEST_PASSWORD: ingest
+      LIGAPEDIA_API_PASSWORD: api
+    ports:
+      - '127.0.0.1:54329:5432'
+    volumes:
+      - pgdata-dev:/var/lib/postgresql
+      - ./deploy/db-init:/docker-entrypoint-initdb.d:ro
+    command: ['postgres', '-c', 'shared_buffers=256MB']
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U postgres -d ligapedia']
+      interval: 2s
+      timeout: 3s
+      retries: 30
+
+volumes:
+  pgdata-dev:
+    name: ligapedia_pgdata-dev

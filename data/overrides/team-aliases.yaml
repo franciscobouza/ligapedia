@@ -1,0 +1,5 @@
+# Merge different published spellings into one team.
+# - canonical: C.U.B.A.        # the name to display/keep
+#   aliases: [CUBA]            # other published names
+#   category: M                # optional: M | F (default both)
+[]

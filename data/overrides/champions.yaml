@@ -1,0 +1,33 @@
+# Force (or clear, with team: null) the champion of a tournament when the data cannot decide it.
+# Every entry cites its source.
+#   season: year · category: M | F · kind: apertura | clausura | liga | oro | plata | anual | otro
+#   tournament: optional name when a season has several tournaments of that kind · team: published name
+
+# Final 4–2 / 0–4 on aggregate; the league names Lourdes champion
+# ("Lourdes se quedó con el Clausura de futsal", ligauniversitaria.org.uy, 13/11/2020).
+- season: 2020
+  category: M
+  kind: clausura
+  team: NUESTRA SEÑORA DE LOURDES
+
+# The source's "CLAUSURA" table is cumulative for the year, so its leader is not the Clausura winner
+# ("El Clausura de futsal tiene dueño: UT Serviam", ligauniversitaria.org.uy, 14/09/2022).
+- season: 2022
+  category: M
+  kind: clausura
+  team: UT SERVIAM
+
+# Final 4–4, "Penales: Cuba 5-4 Universidad ORT" (match observations; also "Cuba campeón del
+# Apertura de futsal", ligauniversitaria.org.uy, 11/07/2023).
+- season: 2023
+  category: M
+  kind: apertura
+  team: C.U.B.A.
+
+# Final 6–4 and 3–3 for C.U.B.A. in the recorded matches; the league reports Universidad ORT won the
+# final ("El bicampeón Universidad ORT se quedó con el Torneo Universitario de futsal tras vencer en una
+# gran final a Cuba", ligauniversitaria.org.uy, 23/11/2024).
+- season: 2024
+  category: M
+  kind: anual
+  team: UNIVERSIDAD ORT
